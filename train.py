@@ -25,7 +25,7 @@ np.random.seed(seed_val)
 random.seed(seed_val)
 
 learning_rate = 5e-4
-time_wt = 100
+time_wt = 1000
 mse_wt = 100000
 num_epochs = 5000
 print = super_print(f'logs/w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
@@ -71,8 +71,9 @@ for epoch in range(num_epochs):
     # print(f"TRAIN: mse_l: {train_loss[0].item()}, rmse_l: {train_loss[1].item()}, mape_l: {train_loss[2].item()}, r2_l: {train_loss[3].item()}")
     # print(f"TEST : mse_l: {all_loss[0].item()}, rmse_l: {all_loss[1].item()}, mape_l: {all_loss[2].item()}, r2_l: {all_loss[3].item()}")
     # pdb.set_trace()
-    print(f'TRAIN: temp_loss: {train_metrics["temp_cel"]}, time_loss: {train_metrics["time_cel"]}, temp_acc: {train_metrics["temp_acc"]}, time_acc: {train_metrics["time_acc"]}')
-    print(f'TEST : temp_loss: {test_metrics["temp_cel"]}, time_loss: {test_metrics["time_cel"]}, temp_acc: {test_metrics["temp_acc"]}, time_acc: {test_metrics["time_acc"]}')
+    if epoch % 100 == 0:
+        print(f'TRAIN: temp_loss: {train_metrics["temp_cel"]}, time_loss: {train_metrics["time_cel"]}, temp_acc: {train_metrics["temp_acc"]}, time_acc: {train_metrics["time_acc"]}')
+        print(f'TEST : temp_loss: {test_metrics["temp_cel"]}, time_loss: {test_metrics["time_cel"]}, temp_acc: {test_metrics["temp_acc"]}, time_acc: {test_metrics["time_acc"]}')
     # mse_l.append(all_loss[0])
     # rmse_l.append(all_loss[1])
     # mape_l.append(all_loss[2])
@@ -81,24 +82,32 @@ for epoch in range(num_epochs):
     time_cel.append(test_metrics["time_cel"])
     temp_acc.append(test_metrics["temp_acc"])
     time_acc.append(test_metrics["time_acc"])
+
+    # save best model based on time accuracy
+    if epoch == 0:
+        best_time_acc = test_metrics["time_acc"]
+        torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
+    elif test_metrics["time_acc"] > best_time_acc:
+        best_time_acc = test_metrics["time_acc"]
+        print(f"Best time accuracy: {best_time_acc}")
+        temp_acc_best = test_metrics["temp_acc"]
+        torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
     
 torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
-#joblib.dump(sc, "scaler_train.save") 
-#joblib.dump(sct, "scaler_test.save") 
-# pdb.set_trace()
-# plot 4 plots in one graph for temp_cel, time_cel, temp_acc, time_acc
 
 fig, ax = plt.subplots(2, 2, figsize=(10, 10), constrained_layout=True)
 ax[0, 0].plot(temp_cel, label='temp_cel')
 ax[0, 0].set_title('temp_cel')
 ax[0, 1].plot(time_cel, label='time_cel')
-ax[0, 1].set_title('time_cel')
+ax[0, 1].set_title(f'time_cel')
 ax[1, 0].plot(temp_acc, label='temp_acc')
 ax[1, 0].set_title('temp_acc')
 ax[1, 1].plot(time_acc, label='time_acc')
-ax[1, 1].set_title('time_acc')
+ax[1, 1].set_title(f'time_acc | best_time_acc: {best_time_acc}')
 
 
 plt.savefig(f'plots/w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.png')
+print(f"Best time accuracy: {best_time_acc}")
+print(f"Temp accuracy with best time accuracy: {temp_acc_best}")
 # plt.show()
 
