@@ -7,7 +7,7 @@ import torch
 import pdb
 
 
-def train_test_loader(exp_name, batch_size=32):
+def train_test_loader(exp_name, batch_size=64):
 
     data_file = f'Data/Yellow_Poplar_0305.xlsx'
     df = pd.read_excel(data_file, sheet_name="225-10")
@@ -34,23 +34,32 @@ def train_test_loader(exp_name, batch_size=32):
 
     Y = df[df.columns[0:2]]
 
-    # Y = np.sqrt((L_after-L_before)**2 + (a_after-a_before)**2 + (b_after-b_before)**2)
+    X = X.values
+    Y = Y.values
+    # convert y values to class
+    temp_classes = sorted(list(set(Y[:,0])))
+    time_classes = sorted(list(set(Y[:,1])))
 
-    x_train, x_test, y_train, y_test = train_test_split(X, Y,  test_size=0.2)
+    temp_classes = {temp_classes[i]: int(i) for i in range(len(temp_classes))}
+    time_classes = {time_classes[i]: int(i) for i in range(len(time_classes))}
 
-    # convert to numpy
-    x_train = x_train.values
-    y_train = y_train.values
-    x_test = x_test.values
-    y_test = y_test.values
+    Y_class = np.zeros((Y.shape[0], 2))
+
+    for i in range(Y.shape[0]):
+        Y_class[i, 0] = temp_classes[Y[i, 0]]
+        Y_class[i, 1] = time_classes[Y[i, 1]]
+    
+
+    x_train, x_test, y_train, y_test = train_test_split(X, Y_class,  test_size=0.2)
+
 
     sc = MinMaxScaler()
-    sct = MinMaxScaler()
+    # sct = MinMaxScaler()
 
     x_train=sc.fit_transform(x_train)
-    y_train =sct.fit_transform(y_train)
+    # y_train =sct.fit_transform(y_train)
     x_test = sc.transform(x_test)
-    y_test = sct.transform(y_test)
+    # y_test = sct.transform(y_test)
 
     train_set = data_utils.TensorDataset(torch.from_numpy(x_train), torch.from_numpy(y_train))
     train_loader = data_utils.DataLoader(train_set, batch_size=batch_size, shuffle=True)
@@ -58,11 +67,11 @@ def train_test_loader(exp_name, batch_size=32):
     test_set = data_utils.TensorDataset(torch.from_numpy(x_test), torch.from_numpy(y_test))
     test_loader = data_utils.DataLoader(test_set, batch_size=batch_size, shuffle=False)
 
-    return train_loader, test_loader, [sc, sct]
+    return train_loader, test_loader, [sc], [temp_classes, time_classes]
 
 if "__main__" == __name__:
     exp_name = "Ash"
-    train_loader, test_loader, [sc, sct] = train_test_loader(exp_name)
+    train_loader, test_loader, [sc], [temp_classes, time_classes] = train_test_loader(exp_name, batch_size=2)
     for x, y in train_loader:
         print(x)
         print(y)
