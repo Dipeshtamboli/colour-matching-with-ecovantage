@@ -25,7 +25,7 @@ np.random.seed(seed_val)
 random.seed(seed_val)
 
 learning_rate = 5e-4
-time_wt = 1000
+time_wt = 1000 
 mse_wt = 100000
 num_epochs = 5000
 print = super_print(f'logs/w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
@@ -89,8 +89,9 @@ for epoch in range(num_epochs):
         torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
     elif test_metrics["time_acc"] > best_time_acc:
         best_time_acc = test_metrics["time_acc"]
-        print(f"Best time accuracy: {best_time_acc}")
         temp_acc_best = test_metrics["temp_acc"]
+        print(f"Best time accuracy: {best_time_acc}")
+        print(f"Temp accuracy with best time accuracy: {temp_acc_best}")
         torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
     
 torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
