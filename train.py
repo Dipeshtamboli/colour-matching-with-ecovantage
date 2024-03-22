@@ -19,16 +19,17 @@ from network import ANN_model
 from get_train_test import train_test_loader
 
 torch.use_deterministic_algorithms(True)
-seed_val = 0
+seed_val = 745
+# seed_val = np.random.randint(0, 1000)
 torch.manual_seed(seed_val)
 np.random.seed(seed_val)
 random.seed(seed_val)
 
-learning_rate = 5e-4
+learning_rate = 5e-3
 time_wt = 1000 
 mse_wt = 100000
 num_epochs = 5000
-print = super_print(f'logs/w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
+print = super_print(f'logs/{seed_val}_w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
 exp_name = "YellowPoplar"
 train_loader, test_loader, [sc], [temp_classes, time_classes] = train_test_loader(exp_name, batch_size=128)
 model = ANN_model()
@@ -62,7 +63,8 @@ for epoch in range(num_epochs):
         # pdb.set_trace()
         loss.backward()
         optimizer.step()
-        if i % 100 == 0:
+        if epoch % 100 == 0:
+        # if i % 100 == 0:
             print(f'Epoch: {epoch+1}, train loss: {loss.item()}, temp_loss: {loss_temp.item()}, time_loss: {loss_time.item()}, mse_loss: {mse_l_time.item()}')
     # train_loss, train_gt, train_pred = validate(model, train_loader)
     # all_loss, gt, pred = validate(model, test_loader)
@@ -92,9 +94,11 @@ for epoch in range(num_epochs):
         temp_acc_best = test_metrics["temp_acc"]
         print(f"Best time accuracy: {best_time_acc}")
         print(f"Temp accuracy with best time accuracy: {temp_acc_best}")
-        torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
+        best_model_dict = model.state_dict()
+        # torch.save(model.state_dict(), f"models/best_{exp_name}_model_{best_time_acc}_{temp_acc_best}.pt")
     
 torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
+torch.save(best_model_dict, f"models/best_{exp_name}_model_{best_time_acc}_{temp_acc_best}.pt")
 
 fig, ax = plt.subplots(2, 2, figsize=(10, 10), constrained_layout=True)
 ax[0, 0].plot(temp_cel, label='temp_cel')
@@ -104,7 +108,7 @@ ax[0, 1].set_title(f'time_cel')
 ax[1, 0].plot(temp_acc, label='temp_acc')
 ax[1, 0].set_title('temp_acc')
 ax[1, 1].plot(time_acc, label='time_acc')
-ax[1, 1].set_title(f'time_acc | best_time_acc: {best_time_acc}')
+ax[1, 1].set_title(f'time_acc | best_time_temp_acc: {best_time_acc:.2f}_{temp_acc_best:.2f}')
 
 
 plt.savefig(f'plots/w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.png')

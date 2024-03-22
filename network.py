@@ -5,15 +5,15 @@ import torch.nn.functional as F
 class ANN_model(torch.nn.Module):
     def __init__(self):
         super(ANN_model, self).__init__()
-        self.linear1 = torch.nn.Linear(6, 16)  
-        self.linear2 = torch.nn.Linear(16, 32)  
+        self.linear1 = torch.nn.Linear(6, 24)  
+        self.linear2 = torch.nn.Linear(24, 48)  
 
-        self.linear_temp = torch.nn.Linear(32, 4)
-        self.linear_time = torch.nn.Linear(32, 5)
+        self.linear_temp = torch.nn.Linear(48, 4)
+        self.linear_time = torch.nn.Linear(48, 5)
 
         # batch normalization
-        self.bn1 = nn.BatchNorm1d(16)
-        self.bn2 = nn.BatchNorm1d(32)
+        self.bn1 = nn.BatchNorm1d(24)
+        self.bn2 = nn.BatchNorm1d(48)
 
 
     def forward(self, x):
