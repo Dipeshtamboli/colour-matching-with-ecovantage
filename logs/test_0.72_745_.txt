@@ -1,0 +1,33 @@
+For Eco Temp: 190
+Mean Temp: 249.96889140271495 | Mean Time: 380.2856334841629
+Median Temp: 250.0 | Median Time: 360.0
+Std Temp: 0.8813326201279811 | Std Time: 108.36828586739996
+For Eco Temp: 200
+Mean Temp: 250.06787330316743 | Mean Time: 509.881221719457
+Median Temp: 250.0 | Median Time: 360.0
+Std Temp: 1.392724145347486 | Std Time: 199.503817562564
+For Eco Temp: 212
+Mean Temp: 251.30065247252747 | Mean Time: 626.882554945055
+Median Temp: 250.0 | Median Time: 540.0
+Std Temp: 5.5828327533879785 | Std Time: 185.3495545193061
+##############################################
+For Eco Temp: 190
+freq of temp: {225: 132, 250: 105948}
+freq of time: {180: 1219, 360: 100232, 540: 241, 720: 231, 900: 4157}
+Mean Temp: 249.96889140271495 | Mean Time: 380.2856334841629
+Median Temp: 250.0 | Median Time: 360.0
+Std Temp: 0.8813326201279811 | Std Time: 108.36828586739996
+##############################################
+For Eco Temp: 200
+freq of temp: {225: 21, 250: 105750, 275: 309}
+freq of time: {180: 246, 360: 58388, 540: 22707, 720: 8348, 900: 16391}
+Mean Temp: 250.06787330316743 | Mean Time: 509.881221719457
+Median Temp: 250.0 | Median Time: 360.0
+Std Temp: 1.392724145347486 | Std Time: 199.503817562564
+##############################################
+For Eco Temp: 212
+freq of temp: {250: 82839, 275: 4497, 300: 24}
+freq of time: {180: 83, 360: 14542, 540: 36477, 720: 15641, 900: 20617}
+Mean Temp: 251.30065247252747 | Mean Time: 626.882554945055
+Median Temp: 250.0 | Median Time: 540.0
+Std Temp: 5.5828327533879785 | Std Time: 185.3495545193061

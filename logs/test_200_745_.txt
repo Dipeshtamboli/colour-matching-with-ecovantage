@@ -1,0 +1,3 @@
+Mean Temp: 249.504854826546 | Mean Time: 717.2307692307693
+Median Temp: 250.0 | Median Time: 900.0
+Std Temp: 4.158684850836591 | Std Time: 186.66306702643664

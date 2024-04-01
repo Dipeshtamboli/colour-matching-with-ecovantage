@@ -1,0 +1,333 @@
+##############################################
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+path: models/best_YellowPoplar_model_0.768_0.864.pt
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.832_0.88.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.464_0.6.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.32_0.448.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.816_0.896.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.384_0.552.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.704_0.848.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.584_0.728.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.896_0.968.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.848_0.888.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.88_0.912.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.808_0.856.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.472_0.6.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.528_0.648.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.576_0.64.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.304_0.44.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.496_0.616.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.656_0.824.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.248_0.424.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/YellowPoplar_model.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.832_0.88.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.464_0.6.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.32_0.448.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.816_0.896.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.384_0.552.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.704_0.848.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.584_0.728.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.896_0.968.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.848_0.888.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.88_0.912.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.808_0.856.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.472_0.6.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.528_0.648.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.576_0.64.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.304_0.44.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.496_0.616.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/best_YellowPoplar_model_0.656_0.824.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 360
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 900
+##############################################
+path: models/best_YellowPoplar_model_0.248_0.424.pt
+For Eco Temp: 190
+High freq Temp: 250 | High freq Time: 900
+For Eco Temp: 200
+High freq Temp: 250 | High freq Time: 540
+For Eco Temp: 212
+High freq Temp: 250 | High freq Time: 540
+##############################################
+path: models/YellowPoplar_model.pt

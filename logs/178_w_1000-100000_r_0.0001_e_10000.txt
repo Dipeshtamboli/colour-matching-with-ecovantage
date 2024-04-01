@@ -1,0 +1,748 @@
+Epoch: 1, train loss: 458682.92919921875, temp_loss: 1.4051259756088257, time_loss: 1.6502740383148193, mse_loss: 4.5703125
+Epoch: 1, train loss: 561824.0010986328, temp_loss: 1.4083929061889648, time_loss: 1.6663426160812378, mse_loss: 5.6015625
+Epoch: 1, train loss: 516518.30322265625, temp_loss: 1.3976634740829468, time_loss: 1.6731555461883545, mse_loss: 5.1484375
+Epoch: 1, train loss: 523393.1968410326, temp_loss: 1.3707979917526245, time_loss: 1.6526955366134644, mse_loss: 5.217391304347826
+TRAIN: temp_loss: 1.4113245010375977, time_loss: 1.6669642925262451, temp_acc: 0.2734375, time_acc: 0.1875
+TEST : temp_loss: 1.4002808332443237, time_loss: 1.6502288579940796, temp_acc: 0.344, time_acc: 0.192
+Best time accuracy: 0.2
+Temp accuracy with best time accuracy: 0.352
+Best time accuracy: 0.208
+Temp accuracy with best time accuracy: 0.392
+Best time accuracy: 0.216
+Temp accuracy with best time accuracy: 0.416
+Best time accuracy: 0.232
+Temp accuracy with best time accuracy: 0.416
+Best time accuracy: 0.248
+Temp accuracy with best time accuracy: 0.424
+Best time accuracy: 0.256
+Temp accuracy with best time accuracy: 0.424
+Best time accuracy: 0.272
+Temp accuracy with best time accuracy: 0.432
+Best time accuracy: 0.304
+Temp accuracy with best time accuracy: 0.44
+Best time accuracy: 0.312
+Temp accuracy with best time accuracy: 0.448
+Best time accuracy: 0.32
+Temp accuracy with best time accuracy: 0.448
+Best time accuracy: 0.328
+Temp accuracy with best time accuracy: 0.48
+Best time accuracy: 0.336
+Temp accuracy with best time accuracy: 0.488
+Best time accuracy: 0.344
+Temp accuracy with best time accuracy: 0.496
+Best time accuracy: 0.352
+Temp accuracy with best time accuracy: 0.52
+Best time accuracy: 0.36
+Temp accuracy with best time accuracy: 0.536
+Best time accuracy: 0.368
+Temp accuracy with best time accuracy: 0.536
+Best time accuracy: 0.376
+Temp accuracy with best time accuracy: 0.536
+Best time accuracy: 0.384
+Temp accuracy with best time accuracy: 0.552
+Best time accuracy: 0.392
+Temp accuracy with best time accuracy: 0.552
+Best time accuracy: 0.4
+Temp accuracy with best time accuracy: 0.552
+Best time accuracy: 0.408
+Temp accuracy with best time accuracy: 0.576
+Best time accuracy: 0.424
+Temp accuracy with best time accuracy: 0.584
+Best time accuracy: 0.44
+Temp accuracy with best time accuracy: 0.592
+Best time accuracy: 0.448
+Temp accuracy with best time accuracy: 0.592
+Best time accuracy: 0.464
+Temp accuracy with best time accuracy: 0.6
+Best time accuracy: 0.472
+Temp accuracy with best time accuracy: 0.6
+Best time accuracy: 0.48
+Temp accuracy with best time accuracy: 0.624
+Best time accuracy: 0.488
+Temp accuracy with best time accuracy: 0.616
+Best time accuracy: 0.496
+Temp accuracy with best time accuracy: 0.616
+Best time accuracy: 0.504
+Temp accuracy with best time accuracy: 0.624
+Best time accuracy: 0.52
+Temp accuracy with best time accuracy: 0.624
+Epoch: 101, train loss: 177114.35998535156, temp_loss: 1.0470985174179077, time_loss: 1.332062840461731, mse_loss: 1.7578125
+Epoch: 101, train loss: 251340.36499023438, temp_loss: 1.0580544471740723, time_loss: 1.3393068313598633, mse_loss: 2.5
+Epoch: 101, train loss: 236508.5645751953, temp_loss: 1.0454745292663574, time_loss: 1.351269006729126, mse_loss: 2.3515625
+Epoch: 101, train loss: 300553.048185929, temp_loss: 1.0283323526382446, time_loss: 1.4215850830078125, mse_loss: 2.991304347826087
+TRAIN: temp_loss: 1.064755916595459, time_loss: 1.3100789785385132, temp_acc: 0.6171875, time_acc: 0.5
+TEST : temp_loss: 1.0543713569641113, time_loss: 1.360154390335083, temp_acc: 0.632, time_acc: 0.52
+Best time accuracy: 0.528
+Temp accuracy with best time accuracy: 0.648
+Best time accuracy: 0.536
+Temp accuracy with best time accuracy: 0.648
+Best time accuracy: 0.544
+Temp accuracy with best time accuracy: 0.64
+Best time accuracy: 0.552
+Temp accuracy with best time accuracy: 0.648
+Best time accuracy: 0.56
+Temp accuracy with best time accuracy: 0.648
+Best time accuracy: 0.568
+Temp accuracy with best time accuracy: 0.632
+Best time accuracy: 0.576
+Temp accuracy with best time accuracy: 0.64
+Best time accuracy: 0.584
+Temp accuracy with best time accuracy: 0.64
+Best time accuracy: 0.592
+Temp accuracy with best time accuracy: 0.648
+Epoch: 201, train loss: 227732.8145751953, temp_loss: 0.8538451194763184, time_loss: 1.169460654258728, mse_loss: 2.265625
+Epoch: 201, train loss: 226168.48107910156, temp_loss: 0.8396683931350708, time_loss: 1.1676414012908936, mse_loss: 2.25
+Epoch: 201, train loss: 249630.22729492188, temp_loss: 0.8590558767318726, time_loss: 1.1918683052062988, mse_loss: 2.484375
+Epoch: 201, train loss: 182852.76544454822, temp_loss: 0.8725634217262268, time_loss: 1.112762451171875, mse_loss: 1.817391304347826
+TRAIN: temp_loss: 0.8740203976631165, time_loss: 1.186315655708313, temp_acc: 0.65625, time_acc: 0.5546875
+TEST : temp_loss: 0.8762170672416687, time_loss: 1.1807233095169067, temp_acc: 0.672, time_acc: 0.584
+Best time accuracy: 0.6
+Temp accuracy with best time accuracy: 0.704
+Epoch: 301, train loss: 158792.71868896484, temp_loss: 0.7341835498809814, time_loss: 0.979484498500824, mse_loss: 1.578125
+Epoch: 301, train loss: 183842.69592285156, temp_loss: 0.7274126410484314, time_loss: 1.0294685363769531, mse_loss: 1.828125
+Epoch: 301, train loss: 187760.36401367188, temp_loss: 0.6912665367126465, time_loss: 1.04092276096344, mse_loss: 1.8671875
+Epoch: 301, train loss: 150637.5733483356, temp_loss: 0.7145344614982605, time_loss: 1.071641445159912, mse_loss: 1.4956521739130435
+TRAIN: temp_loss: 0.753341794013977, time_loss: 1.017008900642395, temp_acc: 0.734375, time_acc: 0.6015625
+TEST : temp_loss: 0.736050546169281, time_loss: 1.0735814571380615, temp_acc: 0.744, time_acc: 0.568
+Epoch: 401, train loss: 171299.88330078125, temp_loss: 0.6846674680709839, time_loss: 0.9866986274719238, mse_loss: 1.703125
+Epoch: 401, train loss: 123493.00860595703, temp_loss: 0.5775386691093445, time_loss: 0.836181104183197, mse_loss: 1.2265625
+Epoch: 401, train loss: 161081.83154296875, temp_loss: 0.5891020894050598, time_loss: 0.9249924421310425, mse_loss: 1.6015625
+Epoch: 401, train loss: 144401.67017132303, temp_loss: 0.5870232582092285, time_loss: 0.9228222370147705, mse_loss: 1.434782608695652
+TRAIN: temp_loss: 0.576363742351532, time_loss: 0.873161256313324, temp_acc: 0.84375, time_acc: 0.765625
+TEST : temp_loss: 0.6364947557449341, time_loss: 0.9987661242485046, temp_acc: 0.776, time_acc: 0.568
+Epoch: 501, train loss: 167210.2349243164, temp_loss: 0.5056049227714539, time_loss: 0.8034793138504028, mse_loss: 1.6640625
+Epoch: 501, train loss: 138356.87091064453, temp_loss: 0.538560688495636, time_loss: 0.8563323616981506, mse_loss: 1.375
+Epoch: 501, train loss: 107067.98638916016, temp_loss: 0.5615905523300171, time_loss: 0.8174247741699219, mse_loss: 1.0625
+Epoch: 501, train loss: 148695.61106540845, temp_loss: 0.5805517435073853, time_loss: 0.8689435720443726, mse_loss: 1.4782608695652173
+TRAIN: temp_loss: 0.5136599540710449, time_loss: 0.8089824914932251, temp_acc: 0.8671875, time_acc: 0.71875
+TEST : temp_loss: 0.573580265045166, time_loss: 0.9385868310928345, temp_acc: 0.792, time_acc: 0.592
+Best time accuracy: 0.608
+Temp accuracy with best time accuracy: 0.792
+Best time accuracy: 0.616
+Temp accuracy with best time accuracy: 0.8
+Best time accuracy: 0.624
+Temp accuracy with best time accuracy: 0.824
+Best time accuracy: 0.632
+Temp accuracy with best time accuracy: 0.824
+Epoch: 601, train loss: 102269.57843017578, temp_loss: 0.5257090330123901, time_loss: 0.7065527439117432, mse_loss: 1.015625
+Epoch: 601, train loss: 103820.43853759766, temp_loss: 0.4810229241847992, time_loss: 0.6949574947357178, mse_loss: 1.03125
+Epoch: 601, train loss: 176638.73681640625, temp_loss: 0.5189495086669922, time_loss: 0.8569678664207458, mse_loss: 1.7578125
+Epoch: 601, train loss: 167754.45557702106, temp_loss: 0.47612521052360535, time_loss: 0.7974576950073242, mse_loss: 1.6695652173913043
+TRAIN: temp_loss: 0.5804718732833862, time_loss: 0.7567194700241089, temp_acc: 0.796875, time_acc: 0.765625
+TEST : temp_loss: 0.5313848257064819, time_loss: 0.8905823826789856, temp_acc: 0.816, time_acc: 0.632
+Best time accuracy: 0.64
+Temp accuracy with best time accuracy: 0.832
+Epoch: 701, train loss: 101430.91821289062, temp_loss: 0.42024388909339905, time_loss: 0.6492480039596558, mse_loss: 1.0078125
+Epoch: 701, train loss: 111637.82385253906, temp_loss: 0.45464763045310974, time_loss: 0.6998692154884338, mse_loss: 1.109375
+Epoch: 701, train loss: 125731.23919677734, temp_loss: 0.4523860812187195, time_loss: 0.7307868003845215, mse_loss: 1.25
+Epoch: 701, train loss: 115482.45079770296, temp_loss: 0.5039729475975037, time_loss: 0.6993381381034851, mse_loss: 1.1478260869565218
+TRAIN: temp_loss: 0.42713791131973267, time_loss: 0.6583721041679382, temp_acc: 0.875, time_acc: 0.7890625
+TEST : temp_loss: 0.4929085671901703, time_loss: 0.8484558463096619, temp_acc: 0.824, time_acc: 0.632
+Epoch: 801, train loss: 127255.71392822266, temp_loss: 0.4283584654331207, time_loss: 0.6927855610847473, mse_loss: 1.265625
+Epoch: 801, train loss: 109995.04846191406, temp_loss: 0.44127634167671204, time_loss: 0.619607150554657, mse_loss: 1.09375
+Epoch: 801, train loss: 90475.5062866211, temp_loss: 0.4058659076690674, time_loss: 0.6313503980636597, mse_loss: 0.8984375
+Epoch: 801, train loss: 102398.1456325365, temp_loss: 0.40381917357444763, time_loss: 0.6586114168167114, mse_loss: 1.017391304347826
+TRAIN: temp_loss: 0.413144052028656, time_loss: 0.6571916341781616, temp_acc: 0.859375, time_acc: 0.796875
+TEST : temp_loss: 0.46221983432769775, time_loss: 0.8155319690704346, temp_acc: 0.824, time_acc: 0.632
+Best time accuracy: 0.648
+Temp accuracy with best time accuracy: 0.816
+Best time accuracy: 0.656
+Temp accuracy with best time accuracy: 0.824
+Best time accuracy: 0.664
+Temp accuracy with best time accuracy: 0.824
+Best time accuracy: 0.672
+Temp accuracy with best time accuracy: 0.824
+Best time accuracy: 0.68
+Temp accuracy with best time accuracy: 0.824
+Epoch: 901, train loss: 103736.06640625, temp_loss: 0.384713351726532, time_loss: 0.6106817126274109, mse_loss: 1.03125
+Epoch: 901, train loss: 88823.3828125, temp_loss: 0.37520623207092285, time_loss: 0.5417576432228088, mse_loss: 0.8828125
+Epoch: 901, train loss: 95877.05938720703, temp_loss: 0.41917693614959717, time_loss: 0.5641402006149292, mse_loss: 0.953125
+Epoch: 901, train loss: 91935.4758168096, temp_loss: 0.3997127115726471, time_loss: 0.6307282447814941, mse_loss: 0.9130434782608695
+TRAIN: temp_loss: 0.3566737473011017, time_loss: 0.4940628707408905, temp_acc: 0.875, time_acc: 0.8984375
+TEST : temp_loss: 0.4360656142234802, time_loss: 0.7862388491630554, temp_acc: 0.84, time_acc: 0.68
+Epoch: 1001, train loss: 109933.6201171875, temp_loss: 0.33227187395095825, time_loss: 0.5582878589630127, mse_loss: 1.09375
+Epoch: 1001, train loss: 69352.61413574219, temp_loss: 0.3878757953643799, time_loss: 0.6022262573242188, mse_loss: 0.6875
+Epoch: 1001, train loss: 96663.35626220703, temp_loss: 0.3751659393310547, time_loss: 0.5692310929298401, mse_loss: 0.9609375
+Epoch: 1001, train loss: 97049.96062701682, temp_loss: 0.3975912928581238, time_loss: 0.5278239250183105, mse_loss: 0.9652173913043478
+TRAIN: temp_loss: 0.3631665110588074, time_loss: 0.4972027838230133, temp_acc: 0.875, time_acc: 0.90625
+TEST : temp_loss: 0.4147505760192871, time_loss: 0.7579453587532043, temp_acc: 0.848, time_acc: 0.664
+Best time accuracy: 0.688
+Temp accuracy with best time accuracy: 0.84
+Best time accuracy: 0.696
+Temp accuracy with best time accuracy: 0.848
+Best time accuracy: 0.704
+Temp accuracy with best time accuracy: 0.848
+Epoch: 1101, train loss: 95058.40637207031, temp_loss: 0.32220539450645447, time_loss: 0.5268341898918152, mse_loss: 0.9453125
+Epoch: 1101, train loss: 88775.76434326172, temp_loss: 0.3230285346508026, time_loss: 0.49419131875038147, mse_loss: 0.8828125
+Epoch: 1101, train loss: 88051.2671508789, temp_loss: 0.38987696170806885, time_loss: 0.5508772730827332, mse_loss: 0.875
+Epoch: 1101, train loss: 68342.87058689282, temp_loss: 0.34101974964141846, time_loss: 0.5164426565170288, mse_loss: 0.6782608695652174
+TRAIN: temp_loss: 0.37269327044487, time_loss: 0.5985727310180664, temp_acc: 0.8515625, time_acc: 0.8203125
+TEST : temp_loss: 0.40020492672920227, time_loss: 0.7281709313392639, temp_acc: 0.848, time_acc: 0.688
+Best time accuracy: 0.712
+Temp accuracy with best time accuracy: 0.848
+Epoch: 1201, train loss: 93445.38903808594, temp_loss: 0.34374314546585083, time_loss: 0.4762952923774719, mse_loss: 0.9296875
+Epoch: 1201, train loss: 121736.28289794922, temp_loss: 0.35982176661491394, time_loss: 0.6421731114387512, mse_loss: 1.2109375
+Epoch: 1201, train loss: 74678.76959228516, temp_loss: 0.28978198766708374, time_loss: 0.45972979068756104, mse_loss: 0.7421875
+Epoch: 1201, train loss: 80456.2505493164, temp_loss: 0.3091718256473541, time_loss: 0.455941379070282, mse_loss: 0.8
+TRAIN: temp_loss: 0.30013084411621094, time_loss: 0.4692298173904419, temp_acc: 0.8984375, time_acc: 0.8671875
+TEST : temp_loss: 0.3853718638420105, time_loss: 0.7038354873657227, temp_acc: 0.84, time_acc: 0.712
+Best time accuracy: 0.72
+Temp accuracy with best time accuracy: 0.84
+Best time accuracy: 0.728
+Temp accuracy with best time accuracy: 0.856
+Best time accuracy: 0.736
+Temp accuracy with best time accuracy: 0.856
+Best time accuracy: 0.744
+Temp accuracy with best time accuracy: 0.856
+Best time accuracy: 0.752
+Temp accuracy with best time accuracy: 0.856
+Epoch: 1301, train loss: 112993.57131958008, temp_loss: 0.32174962759017944, time_loss: 0.4932495653629303, mse_loss: 1.125
+Epoch: 1301, train loss: 65259.11471557617, temp_loss: 0.2942887842655182, time_loss: 0.41507044434547424, mse_loss: 0.6484375
+Epoch: 1301, train loss: 66881.98205566406, temp_loss: 0.3609165549278259, time_loss: 0.4753711223602295, mse_loss: 0.6640625
+Epoch: 1301, train loss: 59592.51913319463, temp_loss: 0.2932809591293335, time_loss: 0.461791068315506, mse_loss: 0.591304347826087
+TRAIN: temp_loss: 0.35107317566871643, time_loss: 0.4142906069755554, temp_acc: 0.8828125, time_acc: 0.890625
+TEST : temp_loss: 0.3740919828414917, time_loss: 0.6838005781173706, temp_acc: 0.848, time_acc: 0.744
+Epoch: 1401, train loss: 98904.23461914062, temp_loss: 0.41986531019210815, time_loss: 0.46631476283073425, mse_loss: 0.984375
+Epoch: 1401, train loss: 46451.93719482422, temp_loss: 0.26491716504096985, time_loss: 0.3579222857952118, mse_loss: 0.4609375
+Epoch: 1401, train loss: 96558.2504272461, temp_loss: 0.23026394844055176, time_loss: 0.4642701745033264, mse_loss: 0.9609375
+Epoch: 1401, train loss: 57802.87560637101, temp_loss: 0.29880446195602417, time_loss: 0.41127246618270874, mse_loss: 0.5739130434782609
+TRAIN: temp_loss: 0.28073790669441223, time_loss: 0.45250076055526733, temp_acc: 0.8984375, time_acc: 0.859375
+TEST : temp_loss: 0.3634093403816223, time_loss: 0.6681356430053711, temp_acc: 0.864, time_acc: 0.736
+Best time accuracy: 0.76
+Temp accuracy with best time accuracy: 0.856
+Epoch: 1501, train loss: 56676.51022338867, temp_loss: 0.22636297345161438, time_loss: 0.4262838661670685, mse_loss: 0.5625
+Epoch: 1501, train loss: 55879.87316894531, temp_loss: 0.26122891902923584, time_loss: 0.41086193919181824, mse_loss: 0.5546875
+Epoch: 1501, train loss: 104278.89459228516, temp_loss: 0.31950822472572327, time_loss: 0.37232506275177, mse_loss: 1.0390625
+Epoch: 1501, train loss: 73451.51241003949, temp_loss: 0.3304060101509094, time_loss: 0.4077037274837494, mse_loss: 0.7304347826086957
+TRAIN: temp_loss: 0.3289257884025574, time_loss: 0.39653444290161133, temp_acc: 0.8828125, time_acc: 0.9375
+TEST : temp_loss: 0.3567213714122772, time_loss: 0.6484419703483582, temp_acc: 0.88, time_acc: 0.752
+Best time accuracy: 0.768
+Temp accuracy with best time accuracy: 0.872
+Best time accuracy: 0.776
+Temp accuracy with best time accuracy: 0.872
+Epoch: 1601, train loss: 102727.18249511719, temp_loss: 0.2968605160713196, time_loss: 0.3831356167793274, mse_loss: 1.0234375
+Epoch: 1601, train loss: 82514.96551513672, temp_loss: 0.3433077037334442, time_loss: 0.48337218165397644, mse_loss: 0.8203125
+Epoch: 1601, train loss: 110642.40069580078, temp_loss: 0.28060612082481384, time_loss: 0.4858700931072235, mse_loss: 1.1015625
+Epoch: 1601, train loss: 76885.77724688986, temp_loss: 0.22004039585590363, time_loss: 0.36381807923316956, mse_loss: 0.7652173913043478
+TRAIN: temp_loss: 0.3157224953174591, time_loss: 0.403319388628006, temp_acc: 0.8671875, time_acc: 0.890625
+TEST : temp_loss: 0.3537138104438782, time_loss: 0.634661078453064, temp_acc: 0.88, time_acc: 0.744
+Epoch: 1701, train loss: 44074.998291015625, temp_loss: 0.19891558587551117, time_loss: 0.32479938864707947, mse_loss: 0.4375
+Epoch: 1701, train loss: 59716.364501953125, temp_loss: 0.3303769826889038, time_loss: 0.3410341143608093, mse_loss: 0.59375
+Epoch: 1701, train loss: 66053.54486083984, temp_loss: 0.2875739634037018, time_loss: 0.4282572865486145, mse_loss: 0.65625
+Epoch: 1701, train loss: 85646.5615313986, temp_loss: 0.2540467381477356, time_loss: 0.42891615629196167, mse_loss: 0.8521739130434782
+TRAIN: temp_loss: 0.30312028527259827, time_loss: 0.39458850026130676, temp_acc: 0.8828125, time_acc: 0.8515625
+TEST : temp_loss: 0.34507474303245544, time_loss: 0.6248350143432617, temp_acc: 0.872, time_acc: 0.752
+Epoch: 1801, train loss: 73845.53271484375, temp_loss: 0.27614980936050415, time_loss: 0.4077565670013428, mse_loss: 0.734375
+Epoch: 1801, train loss: 44080.54690551758, temp_loss: 0.19189392030239105, time_loss: 0.3303550183773041, mse_loss: 0.4375
+Epoch: 1801, train loss: 40972.31707763672, temp_loss: 0.28660476207733154, time_loss: 0.34703049063682556, mse_loss: 0.40625
+Epoch: 1801, train loss: 126457.24408887781, temp_loss: 0.28100696206092834, time_loss: 0.3700065612792969, mse_loss: 1.2608695652173914
+TRAIN: temp_loss: 0.24689660966396332, time_loss: 0.39549633860588074, temp_acc: 0.8984375, time_acc: 0.875
+TEST : temp_loss: 0.3391662538051605, time_loss: 0.6120660901069641, temp_acc: 0.88, time_acc: 0.744
+Epoch: 1901, train loss: 101126.25924682617, temp_loss: 0.2906378507614136, time_loss: 0.3447186052799225, mse_loss: 1.0078125
+Epoch: 1901, train loss: 44088.35479736328, temp_loss: 0.2561894953250885, time_loss: 0.3380986154079437, mse_loss: 0.4375
+Epoch: 1901, train loss: 34719.903717041016, temp_loss: 0.21113494038581848, time_loss: 0.344692587852478, mse_loss: 0.34375
+Epoch: 1901, train loss: 77724.66402800186, temp_loss: 0.2715129554271698, time_loss: 0.3330881595611572, mse_loss: 0.7739130434782608
+TRAIN: temp_loss: 0.25298598408699036, time_loss: 0.2971625030040741, temp_acc: 0.890625, time_acc: 0.921875
+TEST : temp_loss: 0.3384856581687927, time_loss: 0.6050218939781189, temp_acc: 0.864, time_acc: 0.744
+Epoch: 2001, train loss: 32354.79364013672, temp_loss: 0.2774980664253235, time_loss: 0.3232661485671997, mse_loss: 0.3203125
+Epoch: 2001, train loss: 76905.06286621094, temp_loss: 0.27125319838523865, time_loss: 0.34229162335395813, mse_loss: 0.765625
+Epoch: 2001, train loss: 47192.66271972656, temp_loss: 0.2932378947734833, time_loss: 0.3173694908618927, mse_loss: 0.46875
+Epoch: 2001, train loss: 18497.774762360947, temp_loss: 0.17131954431533813, time_loss: 0.23673386871814728, mse_loss: 0.1826086956521739
+TRAIN: temp_loss: 0.2834744155406952, time_loss: 0.3421902060508728, temp_acc: 0.890625, time_acc: 0.8984375
+TEST : temp_loss: 0.3324124217033386, time_loss: 0.5954799652099609, temp_acc: 0.864, time_acc: 0.736
+Epoch: 2101, train loss: 35465.60870361328, temp_loss: 0.2635880708694458, time_loss: 0.3090951144695282, mse_loss: 0.3515625
+Epoch: 2101, train loss: 48839.66711425781, temp_loss: 0.2673581838607788, time_loss: 0.4018997550010681, mse_loss: 0.484375
+Epoch: 2101, train loss: 48811.66033935547, temp_loss: 0.25376883149147034, time_loss: 0.37390658259391785, mse_loss: 0.484375
+Epoch: 2101, train loss: 57669.70800383195, temp_loss: 0.20857836306095123, time_loss: 0.2781950831413269, mse_loss: 0.5739130434782609
+TRAIN: temp_loss: 0.22259725630283356, time_loss: 0.3598892092704773, temp_acc: 0.9140625, time_acc: 0.8671875
+TEST : temp_loss: 0.32521092891693115, time_loss: 0.591059684753418, temp_acc: 0.88, time_acc: 0.744
+Epoch: 2201, train loss: 62036.492767333984, temp_loss: 0.3130299746990204, time_loss: 0.3174297511577606, mse_loss: 0.6171875
+Epoch: 2201, train loss: 81593.83776855469, temp_loss: 0.27286800742149353, time_loss: 0.34356489777565, mse_loss: 0.8125
+Epoch: 2201, train loss: 47227.76647949219, temp_loss: 0.16245302557945251, time_loss: 0.3526040315628052, mse_loss: 0.46875
+Epoch: 2201, train loss: 52447.498523214585, temp_loss: 0.21574494242668152, time_loss: 0.2733697295188904, mse_loss: 0.5217391304347826
+TRAIN: temp_loss: 0.24495667219161987, time_loss: 0.3209536671638489, temp_acc: 0.90625, time_acc: 0.859375
+TEST : temp_loss: 0.32638439536094666, time_loss: 0.5811238288879395, temp_acc: 0.872, time_acc: 0.76
+Epoch: 2301, train loss: 36185.506912231445, temp_loss: 0.2245052605867386, time_loss: 0.2477824091911316, mse_loss: 0.359375
+Epoch: 2301, train loss: 42525.35501098633, temp_loss: 0.2409038245677948, time_loss: 0.33761411905288696, mse_loss: 0.421875
+Epoch: 2301, train loss: 69021.44570922852, temp_loss: 0.2666589021682739, time_loss: 0.27117905020713806, mse_loss: 0.6875
+Epoch: 2301, train loss: 33350.11516272503, temp_loss: 0.17107592523097992, time_loss: 0.30646583437919617, mse_loss: 0.33043478260869563
+TRAIN: temp_loss: 0.1997489482164383, time_loss: 0.28208842873573303, temp_acc: 0.9375, time_acc: 0.890625
+TEST : temp_loss: 0.3257208466529846, time_loss: 0.5716867446899414, temp_acc: 0.856, time_acc: 0.768
+Best time accuracy: 0.784
+Temp accuracy with best time accuracy: 0.872
+Epoch: 2401, train loss: 23668.244354248047, temp_loss: 0.1710764616727829, time_loss: 0.23057326674461365, mse_loss: 0.234375
+Epoch: 2401, train loss: 30717.579040527344, temp_loss: 0.19837477803230286, time_loss: 0.24863065779209137, mse_loss: 0.3046875
+Epoch: 2401, train loss: 64395.20690917969, temp_loss: 0.25370946526527405, time_loss: 0.332453191280365, mse_loss: 0.640625
+Epoch: 2401, train loss: 42864.630176710045, temp_loss: 0.24758951365947723, time_loss: 0.2556869387626648, mse_loss: 0.4260869565217391
+TRAIN: temp_loss: 0.2275136113166809, time_loss: 0.2540692389011383, temp_acc: 0.890625, time_acc: 0.9140625
+TEST : temp_loss: 0.32291626930236816, time_loss: 0.5743364095687866, temp_acc: 0.864, time_acc: 0.784
+Best time accuracy: 0.792
+Temp accuracy with best time accuracy: 0.872
+Epoch: 2501, train loss: 47992.75845336914, temp_loss: 0.24393369257450104, time_loss: 0.3362645208835602, mse_loss: 0.4765625
+Epoch: 2501, train loss: 48704.348693847656, temp_loss: 0.2419741153717041, time_loss: 0.26660671830177307, mse_loss: 0.484375
+Epoch: 2501, train loss: 57301.39828491211, temp_loss: 0.17859791219234467, time_loss: 0.2699697017669678, mse_loss: 0.5703125
+Epoch: 2501, train loss: 50706.540146537445, temp_loss: 0.2423986941576004, time_loss: 0.2715151309967041, mse_loss: 0.5043478260869565
+TRAIN: temp_loss: 0.25986868143081665, time_loss: 0.26656219363212585, temp_acc: 0.875, time_acc: 0.921875
+TEST : temp_loss: 0.32312312722206116, time_loss: 0.5664143562316895, temp_acc: 0.864, time_acc: 0.776
+Epoch: 2601, train loss: 40993.41525268555, temp_loss: 0.29780423641204834, time_loss: 0.36811745166778564, mse_loss: 0.40625
+Epoch: 2601, train loss: 62855.12057495117, temp_loss: 0.2421277016401291, time_loss: 0.3548784554004669, mse_loss: 0.625
+Epoch: 2601, train loss: 67425.28649902344, temp_loss: 0.2157432734966278, time_loss: 0.23757074773311615, mse_loss: 0.671875
+Epoch: 2601, train loss: 38510.209363191025, temp_loss: 0.16449300944805145, time_loss: 0.2491753101348877, mse_loss: 0.3826086956521739
+TRAIN: temp_loss: 0.2317836433649063, time_loss: 0.3214399516582489, temp_acc: 0.9140625, time_acc: 0.8828125
+TEST : temp_loss: 0.32180970907211304, time_loss: 0.5685739517211914, temp_acc: 0.856, time_acc: 0.784
+Epoch: 2701, train loss: 68284.18960571289, temp_loss: 0.1958846151828766, time_loss: 0.3152437210083008, mse_loss: 0.6796875
+Epoch: 2701, train loss: 31473.86521911621, temp_loss: 0.22848226130008698, time_loss: 0.22363673150539398, mse_loss: 0.3125
+Epoch: 2701, train loss: 41653.46418762207, temp_loss: 0.23720036447048187, time_loss: 0.24697698652744293, mse_loss: 0.4140625
+Epoch: 2701, train loss: 51666.634843909225, temp_loss: 0.2898772656917572, time_loss: 0.361997127532959, mse_loss: 0.5130434782608696
+TRAIN: temp_loss: 0.18972453474998474, time_loss: 0.26102516055107117, temp_acc: 0.9296875, time_acc: 0.9453125
+TEST : temp_loss: 0.31943807005882263, time_loss: 0.559003472328186, temp_acc: 0.832, time_acc: 0.784
+Best time accuracy: 0.8
+Temp accuracy with best time accuracy: 0.84
+Epoch: 2801, train loss: 48655.39944458008, temp_loss: 0.25673797726631165, time_loss: 0.21764269471168518, mse_loss: 0.484375
+Epoch: 2801, train loss: 20549.184448242188, temp_loss: 0.2065587192773819, time_loss: 0.23647789657115936, mse_loss: 0.203125
+Epoch: 2801, train loss: 45599.98989868164, temp_loss: 0.180402934551239, time_loss: 0.2873094975948334, mse_loss: 0.453125
+Epoch: 2801, train loss: 20226.27522277832, temp_loss: 0.21175611019134521, time_loss: 0.22606346011161804, mse_loss: 0.2
+TRAIN: temp_loss: 0.2395566999912262, time_loss: 0.22806072235107422, temp_acc: 0.90625, time_acc: 0.9296875
+TEST : temp_loss: 0.32222527265548706, time_loss: 0.5555704832077026, temp_acc: 0.832, time_acc: 0.776
+Best time accuracy: 0.808
+Temp accuracy with best time accuracy: 0.856
+Epoch: 2901, train loss: 39267.62536621094, temp_loss: 0.20495861768722534, time_loss: 0.20492041110992432, mse_loss: 0.390625
+Epoch: 2901, train loss: 29908.5440826416, temp_loss: 0.19089961051940918, time_loss: 0.22085317969322205, mse_loss: 0.296875
+Epoch: 2901, train loss: 72970.38168334961, temp_loss: 0.25394994020462036, time_loss: 0.31387773156166077, mse_loss: 0.7265625
+Epoch: 2901, train loss: 36732.74560016135, temp_loss: 0.1661178320646286, time_loss: 0.2108403444290161, mse_loss: 0.3652173913043478
+TRAIN: temp_loss: 0.23085550963878632, time_loss: 0.22650402784347534, temp_acc: 0.890625, time_acc: 0.9375
+TEST : temp_loss: 0.3160019814968109, time_loss: 0.5517411231994629, temp_acc: 0.848, time_acc: 0.8
+Epoch: 3001, train loss: 49487.956604003906, temp_loss: 0.22422511875629425, time_loss: 0.2689823806285858, mse_loss: 0.4921875
+Epoch: 3001, train loss: 54084.91639709473, temp_loss: 0.18173152208328247, time_loss: 0.17848466336727142, mse_loss: 0.5390625
+Epoch: 3001, train loss: 27556.3497467041, temp_loss: 0.1921796053647995, time_loss: 0.21240755915641785, mse_loss: 0.2734375
+Epoch: 3001, train loss: 24586.392920452618, temp_loss: 0.22465549409389496, time_loss: 0.23834218084812164, mse_loss: 0.24347826086956523
+TRAIN: temp_loss: 0.24349890649318695, time_loss: 0.2128632813692093, temp_acc: 0.890625, time_acc: 0.9140625
+TEST : temp_loss: 0.31554073095321655, time_loss: 0.5513596534729004, temp_acc: 0.848, time_acc: 0.792
+Best time accuracy: 0.816
+Temp accuracy with best time accuracy: 0.864
+Epoch: 3101, train loss: 44062.035705566406, temp_loss: 0.23708195984363556, time_loss: 0.3117986023426056, mse_loss: 0.4375
+Epoch: 3101, train loss: 47130.81455993652, temp_loss: 0.201588973402977, time_loss: 0.25561296939849854, mse_loss: 0.46875
+Epoch: 3101, train loss: 66021.61163330078, temp_loss: 0.2536170184612274, time_loss: 0.39635801315307617, mse_loss: 0.65625
+Epoch: 3101, train loss: 68960.82890120796, temp_loss: 0.29053330421447754, time_loss: 0.26488620042800903, mse_loss: 0.6869565217391305
+TRAIN: temp_loss: 0.25331756472587585, time_loss: 0.13830026984214783, temp_acc: 0.890625, time_acc: 0.9765625
+TEST : temp_loss: 0.31252965331077576, time_loss: 0.5512458682060242, temp_acc: 0.84, time_acc: 0.808
+Epoch: 3201, train loss: 38549.05139160156, temp_loss: 0.2148713916540146, time_loss: 0.26758652925491333, mse_loss: 0.3828125
+Epoch: 3201, train loss: 65171.153869628906, temp_loss: 0.25065872073173523, time_loss: 0.32715320587158203, mse_loss: 0.6484375
+Epoch: 3201, train loss: 11094.141372680664, temp_loss: 0.14853739738464355, time_loss: 0.15649282932281494, mse_loss: 0.109375
+Epoch: 3201, train loss: 53232.75963293988, temp_loss: 0.1990577131509781, time_loss: 0.1890823245048523, mse_loss: 0.5304347826086957
+TRAIN: temp_loss: 0.16085787117481232, time_loss: 0.20247071981430054, temp_acc: 0.921875, time_acc: 0.9453125
+TEST : temp_loss: 0.31253814697265625, time_loss: 0.5506967306137085, temp_acc: 0.832, time_acc: 0.808
+Best time accuracy: 0.824
+Temp accuracy with best time accuracy: 0.832
+Epoch: 3301, train loss: 43155.65463256836, temp_loss: 0.1879703253507614, time_loss: 0.18671666085720062, mse_loss: 0.4296875
+Epoch: 3301, train loss: 54209.86636352539, temp_loss: 0.2252076417207718, time_loss: 0.30339112877845764, mse_loss: 0.5390625
+Epoch: 3301, train loss: 66690.3547668457, temp_loss: 0.17818288505077362, time_loss: 0.2839265763759613, mse_loss: 0.6640625
+Epoch: 3301, train loss: 52390.05357692552, temp_loss: 0.32192346453666687, time_loss: 0.2158185988664627, mse_loss: 0.5217391304347826
+TRAIN: temp_loss: 0.20443661510944366, time_loss: 0.2531178593635559, temp_acc: 0.921875, time_acc: 0.921875
+TEST : temp_loss: 0.3063560426235199, time_loss: 0.5492432713508606, temp_acc: 0.832, time_acc: 0.8
+Epoch: 3401, train loss: 32249.801727294922, temp_loss: 0.18154297769069672, time_loss: 0.21837018430233002, mse_loss: 0.3203125
+Epoch: 3401, train loss: 61909.522521972656, temp_loss: 0.16953103244304657, time_loss: 0.19060300290584564, mse_loss: 0.6171875
+Epoch: 3401, train loss: 26733.233108520508, temp_loss: 0.21821928024291992, time_loss: 0.17051489651203156, mse_loss: 0.265625
+Epoch: 3401, train loss: 56796.2637886379, temp_loss: 0.21676145493984222, time_loss: 0.27430790662765503, mse_loss: 0.5652173913043478
+TRAIN: temp_loss: 0.1925203949213028, time_loss: 0.23166584968566895, temp_acc: 0.921875, time_acc: 0.9296875
+TEST : temp_loss: 0.30726608633995056, time_loss: 0.5462172031402588, temp_acc: 0.832, time_acc: 0.792
+Epoch: 3501, train loss: 36953.31555175781, temp_loss: 0.19044730067253113, time_loss: 0.23437510430812836, mse_loss: 0.3671875
+Epoch: 3501, train loss: 68180.96954345703, temp_loss: 0.2707326412200928, time_loss: 0.21194881200790405, mse_loss: 0.6796875
+Epoch: 3501, train loss: 42398.83627319336, temp_loss: 0.19206538796424866, time_loss: 0.21114420890808105, mse_loss: 0.421875
+Epoch: 3501, train loss: 8865.161161339802, temp_loss: 0.15950602293014526, time_loss: 0.16934949159622192, mse_loss: 0.08695652173913043
+TRAIN: temp_loss: 0.19898280501365662, time_loss: 0.1796213537454605, temp_acc: 0.90625, time_acc: 0.953125
+TEST : temp_loss: 0.3069237470626831, time_loss: 0.5491967797279358, temp_acc: 0.832, time_acc: 0.808
+Epoch: 3601, train loss: 54887.945373535156, temp_loss: 0.19787883758544922, time_loss: 0.20024749636650085, mse_loss: 0.546875
+Epoch: 3601, train loss: 34586.071868896484, temp_loss: 0.17259526252746582, time_loss: 0.21089927852153778, mse_loss: 0.34375
+Epoch: 3601, train loss: 40848.88838195801, temp_loss: 0.18488828837871552, time_loss: 0.22370348870754242, mse_loss: 0.40625
+Epoch: 3601, train loss: 28900.802060998005, temp_loss: 0.23799824714660645, time_loss: 0.20491190254688263, mse_loss: 0.28695652173913044
+TRAIN: temp_loss: 0.13096995651721954, time_loss: 0.14170843362808228, temp_acc: 0.9609375, time_acc: 0.9609375
+TEST : temp_loss: 0.3058468699455261, time_loss: 0.5486279726028442, temp_acc: 0.84, time_acc: 0.816
+Epoch: 3701, train loss: 60318.6044921875, temp_loss: 0.1923571527004242, time_loss: 0.16216214001178741, mse_loss: 0.6015625
+Epoch: 3701, train loss: 29111.012329101562, temp_loss: 0.1876186728477478, time_loss: 0.20457470417022705, mse_loss: 0.2890625
+Epoch: 3701, train loss: 28358.943878173828, temp_loss: 0.19782277941703796, time_loss: 0.23374605178833008, mse_loss: 0.28125
+Epoch: 3701, train loss: 33219.98723303753, temp_loss: 0.15567025542259216, time_loss: 0.1763533055782318, mse_loss: 0.33043478260869563
+TRAIN: temp_loss: 0.28405600786209106, time_loss: 0.2528946101665497, temp_acc: 0.875, time_acc: 0.921875
+TEST : temp_loss: 0.30769801139831543, time_loss: 0.5504599809646606, temp_acc: 0.832, time_acc: 0.8
+Epoch: 3801, train loss: 25964.982955932617, temp_loss: 0.1649695783853531, time_loss: 0.18356800079345703, mse_loss: 0.2578125
+Epoch: 3801, train loss: 43936.83143615723, temp_loss: 0.22092187404632568, time_loss: 0.18661051988601685, mse_loss: 0.4375
+Epoch: 3801, train loss: 58805.102600097656, temp_loss: 0.157941997051239, time_loss: 0.21119464933872223, mse_loss: 0.5859375
+Epoch: 3801, train loss: 45407.618522975754, temp_loss: 0.18504206836223602, time_loss: 0.1900421679019928, mse_loss: 0.45217391304347826
+TRAIN: temp_loss: 0.1599329560995102, time_loss: 0.17999763786792755, temp_acc: 0.9296875, time_acc: 0.9453125
+TEST : temp_loss: 0.305022269487381, time_loss: 0.5478940606117249, temp_acc: 0.856, time_acc: 0.808
+Epoch: 3901, train loss: 76039.05319213867, temp_loss: 0.23627133667469025, time_loss: 0.2575669288635254, mse_loss: 0.7578125
+Epoch: 3901, train loss: 29868.01661682129, temp_loss: 0.1745365560054779, time_loss: 0.18034209311008453, mse_loss: 0.296875
+Epoch: 3901, train loss: 40809.59420776367, temp_loss: 0.17873217165470123, time_loss: 0.18441547453403473, mse_loss: 0.40625
+Epoch: 3901, train loss: 20181.204498291016, temp_loss: 0.17388302087783813, time_loss: 0.18103061616420746, mse_loss: 0.2
+TRAIN: temp_loss: 0.17183443903923035, time_loss: 0.15444327890872955, temp_acc: 0.9375, time_acc: 0.9765625
+TEST : temp_loss: 0.2984904646873474, time_loss: 0.545962393283844, temp_acc: 0.856, time_acc: 0.8
+Epoch: 4001, train loss: 18961.748275756836, temp_loss: 0.17060987651348114, time_loss: 0.2115776687860489, mse_loss: 0.1875
+Epoch: 4001, train loss: 27546.913009643555, temp_loss: 0.20827218890190125, time_loss: 0.2029547393321991, mse_loss: 0.2734375
+Epoch: 4001, train loss: 36140.41485595703, temp_loss: 0.18776153028011322, time_loss: 0.20272709429264069, mse_loss: 0.359375
+Epoch: 4001, train loss: 58476.065854279885, temp_loss: 0.16529785096645355, time_loss: 0.2150309830904007, mse_loss: 0.5826086956521739
+TRAIN: temp_loss: 0.19699369370937347, time_loss: 0.18609586358070374, temp_acc: 0.921875, time_acc: 0.9296875
+TEST : temp_loss: 0.29582709074020386, time_loss: 0.54648756980896, temp_acc: 0.856, time_acc: 0.808
+Epoch: 4101, train loss: 60420.94009399414, temp_loss: 0.2144976407289505, time_loss: 0.26447558403015137, mse_loss: 0.6015625
+Epoch: 4101, train loss: 10303.044403076172, temp_loss: 0.15479500591754913, time_loss: 0.1466396003961563, mse_loss: 0.1015625
+Epoch: 4101, train loss: 103520.2158203125, temp_loss: 0.20373483002185822, time_loss: 0.3950120806694031, mse_loss: 1.03125
+Epoch: 4101, train loss: 22800.417240308678, temp_loss: 0.1617211103439331, time_loss: 0.19155986607074738, mse_loss: 0.22608695652173913
+TRAIN: temp_loss: 0.1991979479789734, time_loss: 0.1768152415752411, temp_acc: 0.921875, time_acc: 0.9453125
+TEST : temp_loss: 0.2933644950389862, time_loss: 0.5401725172996521, temp_acc: 0.872, time_acc: 0.808
+Epoch: 4201, train loss: 32967.719787597656, temp_loss: 0.24110396206378937, time_loss: 0.1549786776304245, mse_loss: 0.328125
+Epoch: 4201, train loss: 31423.99153137207, temp_loss: 0.16397739946842194, time_loss: 0.17382755875587463, mse_loss: 0.3125
+Epoch: 4201, train loss: 6409.866134643555, temp_loss: 0.14266915619373322, time_loss: 0.1597234606742859, mse_loss: 0.0625
+Epoch: 4201, train loss: 29694.555480293606, temp_loss: 0.14627666771411896, time_loss: 0.1291918158531189, mse_loss: 0.2956521739130435
+TRAIN: temp_loss: 0.1366061568260193, time_loss: 0.13003258407115936, temp_acc: 0.9609375, time_acc: 0.9609375
+TEST : temp_loss: 0.2956961691379547, time_loss: 0.5460565090179443, temp_acc: 0.864, time_acc: 0.808
+Epoch: 4301, train loss: 1707.2813568115234, temp_loss: 0.16820082068443298, time_loss: 0.14461316168308258, mse_loss: 0.015625
+Epoch: 4301, train loss: 63557.70169067383, temp_loss: 0.19031387567520142, time_loss: 0.2762613892555237, mse_loss: 0.6328125
+Epoch: 4301, train loss: 16555.247177124023, temp_loss: 0.2100551724433899, time_loss: 0.14878712594509125, mse_loss: 0.1640625
+Epoch: 4301, train loss: 22746.807789014732, temp_loss: 0.2001843899488449, time_loss: 0.13791196048259735, mse_loss: 0.22608695652173913
+TRAIN: temp_loss: 0.16312506794929504, time_loss: 0.13448312878608704, temp_acc: 0.9296875, time_acc: 0.9609375
+TEST : temp_loss: 0.29491719603538513, time_loss: 0.5429694056510925, temp_acc: 0.856, time_acc: 0.808
+Epoch: 4401, train loss: 37651.454986572266, temp_loss: 0.16396020352840424, time_loss: 0.15129102766513824, mse_loss: 0.375
+Epoch: 4401, train loss: 47862.9059753418, temp_loss: 0.2333998680114746, time_loss: 0.2064225822687149, mse_loss: 0.4765625
+Epoch: 4401, train loss: 11899.158386230469, temp_loss: 0.10882919281721115, time_loss: 0.1802995651960373, mse_loss: 0.1171875
+Epoch: 4401, train loss: 21073.787370101265, temp_loss: 0.15139585733413696, time_loss: 0.20407076179981232, mse_loss: 0.20869565217391303
+TRAIN: temp_loss: 0.15406394004821777, time_loss: 0.1627974808216095, temp_acc: 0.9375, time_acc: 0.9375
+TEST : temp_loss: 0.29197990894317627, time_loss: 0.5383731126785278, temp_acc: 0.864, time_acc: 0.808
+Epoch: 4501, train loss: 21254.647537231445, temp_loss: 0.17145729064941406, time_loss: 0.16072607040405273, mse_loss: 0.2109375
+Epoch: 4501, train loss: 15023.114059448242, temp_loss: 0.18500424921512604, time_loss: 0.17917905747890472, mse_loss: 0.1484375
+Epoch: 4501, train loss: 38448.85372924805, temp_loss: 0.15574201941490173, time_loss: 0.1674479842185974, mse_loss: 0.3828125
+Epoch: 4501, train loss: 1869.14587667714, temp_loss: 0.12584197521209717, time_loss: 0.1298896074295044, mse_loss: 0.017391304347826087
+TRAIN: temp_loss: 0.18698541820049286, time_loss: 0.230941042304039, temp_acc: 0.90625, time_acc: 0.9140625
+TEST : temp_loss: 0.287046879529953, time_loss: 0.544390082359314, temp_acc: 0.88, time_acc: 0.816
+Epoch: 4601, train loss: 16586.916915893555, temp_loss: 0.16418777406215668, time_loss: 0.1805027276277542, mse_loss: 0.1640625
+Epoch: 4601, train loss: 16528.454872131348, temp_loss: 0.1488594263792038, time_loss: 0.1220560148358345, mse_loss: 0.1640625
+Epoch: 4601, train loss: 44737.51484680176, temp_loss: 0.24873130023479462, time_loss: 0.20601610839366913, mse_loss: 0.4453125
+Epoch: 4601, train loss: 11459.619310461956, temp_loss: 0.18390944600105286, time_loss: 0.15508757531642914, mse_loss: 0.11304347826086956
+TRAIN: temp_loss: 0.1705254763364792, time_loss: 0.17457377910614014, temp_acc: 0.9140625, time_acc: 0.9453125
+TEST : temp_loss: 0.2872316539287567, time_loss: 0.5484740138053894, temp_acc: 0.864, time_acc: 0.824
+Epoch: 4701, train loss: 5578.728477478027, temp_loss: 0.17819744348526, time_loss: 0.10980027914047241, mse_loss: 0.0546875
+Epoch: 4701, train loss: 26691.82145690918, temp_loss: 0.17672409117221832, time_loss: 0.12914472818374634, mse_loss: 0.265625
+Epoch: 4701, train loss: 32237.276748657227, temp_loss: 0.14827948808670044, time_loss: 0.20587846636772156, mse_loss: 0.3203125
+Epoch: 4701, train loss: 43644.74539715311, temp_loss: 0.19939695298671722, time_loss: 0.16628512740135193, mse_loss: 0.43478260869565216
+TRAIN: temp_loss: 0.18178650736808777, time_loss: 0.13276085257530212, temp_acc: 0.9296875, time_acc: 0.96875
+TEST : temp_loss: 0.2925685942173004, time_loss: 0.5524446368217468, temp_acc: 0.872, time_acc: 0.808
+Epoch: 4801, train loss: 36107.34559631348, temp_loss: 0.11095946282148361, time_loss: 0.1697346419095993, mse_loss: 0.359375
+Epoch: 4801, train loss: 16571.255279541016, temp_loss: 0.14096885919570923, time_loss: 0.16486430168151855, mse_loss: 0.1640625
+Epoch: 4801, train loss: 49351.1725769043, temp_loss: 0.1712133139371872, time_loss: 0.13225135207176208, mse_loss: 0.4921875
+Epoch: 4801, train loss: 45446.68700442107, temp_loss: 0.19463421404361725, time_loss: 0.2291010618209839, mse_loss: 0.45217391304347826
+TRAIN: temp_loss: 0.15195722877979279, time_loss: 0.17210248112678528, temp_acc: 0.9375, time_acc: 0.9375
+TEST : temp_loss: 0.28989243507385254, time_loss: 0.5458875298500061, temp_acc: 0.864, time_acc: 0.8
+Epoch: 4901, train loss: 29006.608512878418, temp_loss: 0.13738493621349335, time_loss: 0.10022112727165222, mse_loss: 0.2890625
+Epoch: 4901, train loss: 21228.71551513672, temp_loss: 0.15632323920726776, time_loss: 0.1348091959953308, mse_loss: 0.2109375
+Epoch: 4901, train loss: 12691.165542602539, temp_loss: 0.1844375729560852, time_loss: 0.19098110496997833, mse_loss: 0.125
+Epoch: 4901, train loss: 9721.12475519595, temp_loss: 0.17738042771816254, time_loss: 0.1557299792766571, mse_loss: 0.09565217391304348
+TRAIN: temp_loss: 0.153013214468956, time_loss: 0.23545072972774506, temp_acc: 0.9453125, time_acc: 0.921875
+TEST : temp_loss: 0.29122450947761536, time_loss: 0.546958863735199, temp_acc: 0.864, time_acc: 0.808
+Epoch: 5001, train loss: 30644.848037719727, temp_loss: 0.16522233188152313, time_loss: 0.17593280971050262, mse_loss: 0.3046875
+Epoch: 5001, train loss: 49379.82629394531, temp_loss: 0.15733936429023743, time_loss: 0.1609189659357071, mse_loss: 0.4921875
+Epoch: 5001, train loss: 49394.91665649414, temp_loss: 0.16235457360744476, time_loss: 0.1760043054819107, mse_loss: 0.4921875
+Epoch: 5001, train loss: 32343.447024801502, temp_loss: 0.13204586505889893, time_loss: 0.16940192878246307, mse_loss: 0.3217391304347826
+TRAIN: temp_loss: 0.16680066287517548, time_loss: 0.13619884848594666, temp_acc: 0.9296875, time_acc: 0.984375
+TEST : temp_loss: 0.2852925956249237, time_loss: 0.5568727850914001, temp_acc: 0.88, time_acc: 0.808
+Best time accuracy: 0.832
+Temp accuracy with best time accuracy: 0.872
+Epoch: 5101, train loss: 14942.235801696777, temp_loss: 0.16570915281772614, time_loss: 0.09832008928060532, mse_loss: 0.1484375
+Epoch: 5101, train loss: 18942.361877441406, temp_loss: 0.13072094321250916, time_loss: 0.19223114848136902, mse_loss: 0.1875
+Epoch: 5101, train loss: 22813.780181884766, temp_loss: 0.17600761353969574, time_loss: 0.1573541760444641, mse_loss: 0.2265625
+Epoch: 5101, train loss: 4470.997443157694, temp_loss: 0.12431992590427399, time_loss: 0.12304703891277313, mse_loss: 0.043478260869565216
+TRAIN: temp_loss: 0.13803322613239288, time_loss: 0.13083915412425995, temp_acc: 0.9453125, time_acc: 0.9609375
+TEST : temp_loss: 0.28727254271507263, time_loss: 0.5590941905975342, temp_acc: 0.88, time_acc: 0.808
+Epoch: 5201, train loss: 17334.19578552246, temp_loss: 0.18688683211803436, time_loss: 0.14650890231132507, mse_loss: 0.171875
+Epoch: 5201, train loss: 21218.0389251709, temp_loss: 0.17163047194480896, time_loss: 0.12411729246377945, mse_loss: 0.2109375
+Epoch: 5201, train loss: 7138.300537109375, temp_loss: 0.12869425117969513, time_loss: 0.10692184418439865, mse_loss: 0.0703125
+Epoch: 5201, train loss: 17524.56829435929, temp_loss: 0.145365908741951, time_loss: 0.13311856985092163, mse_loss: 0.17391304347826086
+TRAIN: temp_loss: 0.16785937547683716, time_loss: 0.15421627461910248, temp_acc: 0.9140625, time_acc: 0.9453125
+TEST : temp_loss: 0.28761574625968933, time_loss: 0.5485040545463562, temp_acc: 0.872, time_acc: 0.824
+Epoch: 5301, train loss: 21241.685317993164, temp_loss: 0.18578951060771942, time_loss: 0.14774952828884125, mse_loss: 0.2109375
+Epoch: 5301, train loss: 12719.995666503906, temp_loss: 0.20606154203414917, time_loss: 0.21978960931301117, mse_loss: 0.125
+Epoch: 5301, train loss: 22013.08465576172, temp_loss: 0.15791678428649902, time_loss: 0.13792674243450165, mse_loss: 0.21875
+Epoch: 5301, train loss: 31479.353303992233, temp_loss: 0.16318781673908234, time_loss: 0.17484228312969208, mse_loss: 0.3130434782608696
+TRAIN: temp_loss: 0.16626858711242676, time_loss: 0.1122165322303772, temp_acc: 0.9453125, time_acc: 0.9765625
+TEST : temp_loss: 0.29415664076805115, time_loss: 0.5493072867393494, temp_acc: 0.864, time_acc: 0.816
+Epoch: 5401, train loss: 43900.35307312012, temp_loss: 0.14668571949005127, time_loss: 0.15020638704299927, mse_loss: 0.4375
+Epoch: 5401, train loss: 9508.143585205078, temp_loss: 0.16027790307998657, time_loss: 0.13298331201076508, mse_loss: 0.09375
+Epoch: 5401, train loss: 46258.99252319336, temp_loss: 0.17640459537506104, time_loss: 0.16506612300872803, mse_loss: 0.4609375
+Epoch: 5401, train loss: 57700.43261320695, temp_loss: 0.13983333110809326, time_loss: 0.30898842215538025, mse_loss: 0.5739130434782609
+TRAIN: temp_loss: 0.1547238975763321, time_loss: 0.13250607252120972, temp_acc: 0.9375, time_acc: 0.96875
+TEST : temp_loss: 0.2868765592575073, time_loss: 0.5473358631134033, temp_acc: 0.864, time_acc: 0.816
+Epoch: 5501, train loss: 8713.369064331055, temp_loss: 0.14705117046833038, time_loss: 0.11947201192378998, mse_loss: 0.0859375
+Epoch: 5501, train loss: 49374.66128540039, temp_loss: 0.15781356394290924, time_loss: 0.1557534784078598, mse_loss: 0.4921875
+Epoch: 5501, train loss: 4021.4794311523438, temp_loss: 0.14667977392673492, time_loss: 0.115082748234272, mse_loss: 0.0390625
+Epoch: 5501, train loss: 4448.568236309549, temp_loss: 0.12388616800308228, time_loss: 0.10061826556921005, mse_loss: 0.043478260869565216
+TRAIN: temp_loss: 0.15643659234046936, time_loss: 0.14791801571846008, temp_acc: 0.9375, time_acc: 0.953125
+TEST : temp_loss: 0.2881562411785126, time_loss: 0.5518213510513306, temp_acc: 0.864, time_acc: 0.816
+Epoch: 5601, train loss: 7925.39737701416, temp_loss: 0.15845295786857605, time_loss: 0.11273892223834991, mse_loss: 0.078125
+Epoch: 5601, train loss: 20410.551872253418, temp_loss: 0.12361384928226471, time_loss: 0.09792826324701309, mse_loss: 0.203125
+Epoch: 5601, train loss: 13430.167846679688, temp_loss: 0.16752107441425323, time_loss: 0.14875032007694244, mse_loss: 0.1328125
+Epoch: 5601, train loss: 21026.946183577827, temp_loss: 0.17105473577976227, time_loss: 0.15720991790294647, mse_loss: 0.20869565217391303
+TRAIN: temp_loss: 0.14702804386615753, time_loss: 0.08401381224393845, temp_acc: 0.9296875, time_acc: 0.9921875
+TEST : temp_loss: 0.2883983850479126, time_loss: 0.5589277148246765, temp_acc: 0.872, time_acc: 0.816
+Epoch: 5701, train loss: 33727.88751220703, temp_loss: 0.10750223696231842, time_loss: 0.13403001427650452, mse_loss: 0.3359375
+Epoch: 5701, train loss: 4027.7151794433594, temp_loss: 0.1568492352962494, time_loss: 0.1213083267211914, mse_loss: 0.0390625
+Epoch: 5701, train loss: 46219.890617370605, temp_loss: 0.18491235375404358, time_loss: 0.1259557008743286, mse_loss: 0.4609375
+Epoch: 5701, train loss: 14008.715986500616, temp_loss: 0.13883893191814423, time_loss: 0.09553366899490356, mse_loss: 0.1391304347826087
+TRAIN: temp_loss: 0.15525361895561218, time_loss: 0.10314474999904633, temp_acc: 0.9296875, time_acc: 0.9609375
+TEST : temp_loss: 0.2856847047805786, time_loss: 0.5553051829338074, temp_acc: 0.872, time_acc: 0.808
+Epoch: 5801, train loss: 7914.980415344238, temp_loss: 0.1526782065629959, time_loss: 0.10232773423194885, mse_loss: 0.078125
+Epoch: 5801, train loss: 3259.8572998046875, temp_loss: 0.1522194892168045, time_loss: 0.1347050815820694, mse_loss: 0.03125
+Epoch: 5801, train loss: 20432.025512695312, temp_loss: 0.18302689492702484, time_loss: 0.11934248358011246, mse_loss: 0.203125
+Epoch: 5801, train loss: 3652.2332664158034, temp_loss: 0.11505269259214401, time_loss: 0.17385734617710114, mse_loss: 0.034782608695652174
+TRAIN: temp_loss: 0.13397559523582458, time_loss: 0.08175995200872421, temp_acc: 0.9375, time_acc: 0.9921875
+TEST : temp_loss: 0.28670549392700195, time_loss: 0.5575246810913086, temp_acc: 0.856, time_acc: 0.816
+Epoch: 5901, train loss: 2461.0927810668945, temp_loss: 0.14427514374256134, time_loss: 0.11719851195812225, mse_loss: 0.0234375
+Epoch: 5901, train loss: 23584.946258544922, temp_loss: 0.14185194671154022, time_loss: 0.14730441570281982, mse_loss: 0.234375
+Epoch: 5901, train loss: 5584.9475173950195, temp_loss: 0.13305746018886566, time_loss: 0.11606445908546448, mse_loss: 0.0546875
+Epoch: 5901, train loss: 79417.76476918095, temp_loss: 0.21443967521190643, time_loss: 0.28711554408073425, mse_loss: 0.7913043478260869
+TRAIN: temp_loss: 0.1616506278514862, time_loss: 0.13077443838119507, temp_acc: 0.921875, time_acc: 0.96875
+TEST : temp_loss: 0.28686386346817017, time_loss: 0.561370849609375, temp_acc: 0.88, time_acc: 0.816
+Epoch: 6001, train loss: 19632.835998535156, temp_loss: 0.13282306492328644, time_loss: 0.10145317763090134, mse_loss: 0.1953125
+Epoch: 6001, train loss: 24361.190048217773, temp_loss: 0.12991780042648315, time_loss: 0.14231012761592865, mse_loss: 0.2421875
+Epoch: 6001, train loss: 83092.486328125, temp_loss: 0.21069295704364777, time_loss: 0.2797756493091583, mse_loss: 0.828125
+Epoch: 6001, train loss: 15767.104828876, temp_loss: 0.12593524158000946, time_loss: 0.11480497568845749, mse_loss: 0.1565217391304348
+TRAIN: temp_loss: 0.18895472586154938, time_loss: 0.14013412594795227, temp_acc: 0.9296875, time_acc: 0.953125
+TEST : temp_loss: 0.28315332531929016, time_loss: 0.5599714517593384, temp_acc: 0.864, time_acc: 0.816
+Epoch: 6101, train loss: 18100.627029418945, temp_loss: 0.09529371559619904, time_loss: 0.13178174197673798, mse_loss: 0.1796875
+Epoch: 6101, train loss: 14232.055099487305, temp_loss: 0.22298182547092438, time_loss: 0.1693321168422699, mse_loss: 0.140625
+Epoch: 6101, train loss: 18080.239616394043, temp_loss: 0.14253105223178864, time_loss: 0.11134708672761917, mse_loss: 0.1796875
+Epoch: 6101, train loss: 17515.168666673744, temp_loss: 0.12247598171234131, time_loss: 0.12374184280633926, mse_loss: 0.17391304347826086
+TRAIN: temp_loss: 0.17987160384655, time_loss: 0.3696258068084717, temp_acc: 0.9140625, time_acc: 0.859375
+TEST : temp_loss: 0.28325217962265015, time_loss: 0.5550976395606995, temp_acc: 0.872, time_acc: 0.816
+Epoch: 6201, train loss: 856.6092758178711, temp_loss: 0.16886962950229645, time_loss: 0.07519041001796722, mse_loss: 0.0078125
+Epoch: 6201, train loss: 18862.893547058105, temp_loss: 0.11810623854398727, time_loss: 0.11277544498443604, mse_loss: 0.1875
+Epoch: 6201, train loss: 3986.4735260009766, temp_loss: 0.10965323448181152, time_loss: 0.08011387288570404, mse_loss: 0.0390625
+Epoch: 6201, train loss: 47962.04716159987, temp_loss: 0.17300476133823395, time_loss: 0.1357872039079666, mse_loss: 0.4782608695652174
+TRAIN: temp_loss: 0.15927185118198395, time_loss: 0.09408751875162125, temp_acc: 0.9375, time_acc: 0.9609375
+TEST : temp_loss: 0.27751708030700684, time_loss: 0.5619752407073975, temp_acc: 0.864, time_acc: 0.824
+Epoch: 6301, train loss: 46244.444244384766, temp_loss: 0.11228572577238083, time_loss: 0.150581955909729, mse_loss: 0.4609375
+Epoch: 6301, train loss: 29092.07536315918, temp_loss: 0.1781950294971466, time_loss: 0.1856471747159958, mse_loss: 0.2890625
+Epoch: 6301, train loss: 39209.83322143555, temp_loss: 0.15940363705158234, time_loss: 0.14717380702495575, mse_loss: 0.390625
+Epoch: 6301, train loss: 20110.564529418945, temp_loss: 0.14293603599071503, time_loss: 0.11042159050703049, mse_loss: 0.2
+TRAIN: temp_loss: 0.17826364934444427, time_loss: 0.10385360568761826, temp_acc: 0.921875, time_acc: 0.953125
+TEST : temp_loss: 0.27842527627944946, time_loss: 0.5624879002571106, temp_acc: 0.88, time_acc: 0.816
+Epoch: 6401, train loss: 14968.583984375, temp_loss: 0.13235780596733093, time_loss: 0.12470162659883499, mse_loss: 0.1484375
+Epoch: 6401, train loss: 12593.613563537598, temp_loss: 0.14415930211544037, time_loss: 0.09346940368413925, mse_loss: 0.125
+Epoch: 6401, train loss: 26674.926864624023, temp_loss: 0.16458433866500854, time_loss: 0.1122622862458229, mse_loss: 0.265625
+Epoch: 6401, train loss: 13167.002064580502, temp_loss: 0.16398458182811737, time_loss: 0.123359814286232, mse_loss: 0.13043478260869565
+TRAIN: temp_loss: 0.17794334888458252, time_loss: 0.15782594680786133, temp_acc: 0.9453125, time_acc: 0.9375
+TEST : temp_loss: 0.2781435251235962, time_loss: 0.558022677898407, temp_acc: 0.88, time_acc: 0.808
+Epoch: 6501, train loss: 2450.3989791870117, temp_loss: 0.09832584857940674, time_loss: 0.10655064880847931, mse_loss: 0.0234375
+Epoch: 6501, train loss: 40018.767517089844, temp_loss: 0.15774159133434296, time_loss: 0.17485977709293365, mse_loss: 0.3984375
+Epoch: 6501, train loss: 27534.581451416016, temp_loss: 0.1713005006313324, time_loss: 0.19066016376018524, mse_loss: 0.2734375
+Epoch: 6501, train loss: 44625.93512626316, temp_loss: 0.1851956844329834, time_loss: 0.2779238522052765, mse_loss: 0.4434782608695652
+TRAIN: temp_loss: 0.16147609055042267, time_loss: 0.08889268338680267, temp_acc: 0.9453125, time_acc: 1.0
+TEST : temp_loss: 0.27575740218162537, time_loss: 0.55901038646698, temp_acc: 0.88, time_acc: 0.816
+Epoch: 6601, train loss: 7911.454177856445, temp_loss: 0.1564430296421051, time_loss: 0.0987977385520935, mse_loss: 0.078125
+Epoch: 6601, train loss: 18094.349349975586, temp_loss: 0.11368008702993393, time_loss: 0.12548567354679108, mse_loss: 0.1796875
+Epoch: 6601, train loss: 30633.994216918945, temp_loss: 0.21227583289146423, time_loss: 0.16503193974494934, mse_loss: 0.3046875
+Epoch: 6601, train loss: 53225.408970708435, temp_loss: 0.16022023558616638, time_loss: 0.18177048861980438, mse_loss: 0.5304347826086957
+TRAIN: temp_loss: 0.08936948329210281, time_loss: 0.08589962124824524, temp_acc: 0.96875, time_acc: 0.984375
+TEST : temp_loss: 0.2741684019565582, time_loss: 0.5536195635795593, temp_acc: 0.88, time_acc: 0.808
+Epoch: 6701, train loss: 79120.35908508301, temp_loss: 0.22388166189193726, time_loss: 0.21388520300388336, mse_loss: 0.7890625
+Epoch: 6701, train loss: 21225.632354736328, temp_loss: 0.13775008916854858, time_loss: 0.1317445933818817, mse_loss: 0.2109375
+Epoch: 6701, train loss: 856.7738952636719, temp_loss: 0.11878011375665665, time_loss: 0.07540511339902878, mse_loss: 0.0078125
+Epoch: 6701, train loss: 41883.58917501698, temp_loss: 0.11303923279047012, time_loss: 0.1443457007408142, mse_loss: 0.41739130434782606
+TRAIN: temp_loss: 0.16364213824272156, time_loss: 0.06842879951000214, temp_acc: 0.9375, time_acc: 1.0
+TEST : temp_loss: 0.27625206112861633, time_loss: 0.5656535625457764, temp_acc: 0.888, time_acc: 0.816
+Epoch: 6801, train loss: 7101.8539962768555, temp_loss: 0.15187740325927734, time_loss: 0.07045211642980576, mse_loss: 0.0703125
+Epoch: 6801, train loss: 3245.2617263793945, temp_loss: 0.12165171653032303, time_loss: 0.12014007568359375, mse_loss: 0.03125
+Epoch: 6801, train loss: 26660.764350891113, temp_loss: 0.1835404932498932, time_loss: 0.09808081388473511, mse_loss: 0.265625
+Epoch: 6801, train loss: 12323.796084860098, temp_loss: 0.15421923995018005, time_loss: 0.14972881972789764, mse_loss: 0.12173913043478261
+TRAIN: temp_loss: 0.18948893249034882, time_loss: 0.08201586455106735, temp_acc: 0.9375, time_acc: 0.9921875
+TEST : temp_loss: 0.27204108238220215, time_loss: 0.5617374181747437, temp_acc: 0.888, time_acc: 0.824
+Epoch: 6901, train loss: 13358.90737915039, temp_loss: 0.12197147309780121, time_loss: 0.07753540575504303, mse_loss: 0.1328125
+Epoch: 6901, train loss: 36132.44285583496, temp_loss: 0.19181840121746063, time_loss: 0.19475103914737701, mse_loss: 0.359375
+Epoch: 6901, train loss: 79096.63407897949, temp_loss: 0.2713097929954529, time_loss: 0.19011276960372925, mse_loss: 0.7890625
+Epoch: 6901, train loss: 2694.9302942027216, temp_loss: 0.14155471324920654, time_loss: 0.08609308302402496, mse_loss: 0.02608695652173913
+TRAIN: temp_loss: 0.13319723308086395, time_loss: 0.16783180832862854, temp_acc: 0.96875, time_acc: 0.921875
+TEST : temp_loss: 0.268432080745697, time_loss: 0.5709522366523743, temp_acc: 0.896, time_acc: 0.808
+Epoch: 7001, train loss: 16488.20101928711, temp_loss: 0.128141850233078, time_loss: 0.08182287216186523, mse_loss: 0.1640625
+Epoch: 7001, train loss: 845.339958190918, temp_loss: 0.07059858739376068, time_loss: 0.06401936709880829, mse_loss: 0.0078125
+Epoch: 7001, train loss: 14137.839172363281, temp_loss: 0.14148786664009094, time_loss: 0.07519768178462982, mse_loss: 0.140625
+Epoch: 7001, train loss: 956.1618131554645, temp_loss: 0.15447092056274414, time_loss: 0.08644212037324905, mse_loss: 0.008695652173913044
+TRAIN: temp_loss: 0.19665054976940155, time_loss: 0.2210739552974701, temp_acc: 0.9296875, time_acc: 0.90625
+TEST : temp_loss: 0.27177003026008606, time_loss: 0.5626563429832458, temp_acc: 0.888, time_acc: 0.824
+Epoch: 7101, train loss: 20425.797073364258, temp_loss: 0.1494172066450119, time_loss: 0.11314766108989716, mse_loss: 0.203125
+Epoch: 7101, train loss: 3195.5995483398438, temp_loss: 0.1184096485376358, time_loss: 0.07048114389181137, mse_loss: 0.03125
+Epoch: 7101, train loss: 3236.415916442871, temp_loss: 0.14550720155239105, time_loss: 0.11127040535211563, mse_loss: 0.03125
+Epoch: 7101, train loss: 14082.521368275518, temp_loss: 0.13434338569641113, time_loss: 0.16934354603290558, mse_loss: 0.1391304347826087
+TRAIN: temp_loss: 0.12066860496997833, time_loss: 0.14400061964988708, temp_acc: 0.9609375, time_acc: 0.953125
+TEST : temp_loss: 0.2753615975379944, time_loss: 0.5645967125892639, temp_acc: 0.872, time_acc: 0.816
+Epoch: 7201, train loss: 3219.859001159668, temp_loss: 0.1016654223203659, time_loss: 0.09475734084844589, mse_loss: 0.03125
+Epoch: 7201, train loss: 21998.630180358887, temp_loss: 0.16399846971035004, time_loss: 0.12346617877483368, mse_loss: 0.21875
+Epoch: 7201, train loss: 60377.72785949707, temp_loss: 0.17628221213817596, time_loss: 0.22130157053470612, mse_loss: 0.6015625
+Epoch: 7201, train loss: 10549.460404105808, temp_loss: 0.126385897397995, time_loss: 0.11455141007900238, mse_loss: 0.10434782608695652
+TRAIN: temp_loss: 0.12458982318639755, time_loss: 0.13308295607566833, temp_acc: 0.953125, time_acc: 0.953125
+TEST : temp_loss: 0.26570430397987366, time_loss: 0.5747087001800537, temp_acc: 0.904, time_acc: 0.816
+Epoch: 7301, train loss: 855.9280853271484, temp_loss: 0.10097526013851166, time_loss: 0.07457710802555084, mse_loss: 0.0078125
+Epoch: 7301, train loss: 849.7573165893555, temp_loss: 0.1619812548160553, time_loss: 0.0683453381061554, mse_loss: 0.0078125
+Epoch: 7301, train loss: 7106.868278503418, temp_loss: 0.135529026389122, time_loss: 0.07548274844884872, mse_loss: 0.0703125
+Epoch: 7301, train loss: 17479.066234422768, temp_loss: 0.15527768433094025, time_loss: 0.08760660886764526, mse_loss: 0.17391304347826086
+TRAIN: temp_loss: 0.10617170482873917, time_loss: 0.0692988708615303, temp_acc: 0.9765625, time_acc: 1.0
+TEST : temp_loss: 0.2635417580604553, time_loss: 0.5729584693908691, temp_acc: 0.904, time_acc: 0.816
+Epoch: 7401, train loss: 23591.6111907959, temp_loss: 0.20016755163669586, time_loss: 0.1539110243320465, mse_loss: 0.234375
+Epoch: 7401, train loss: 13347.44147491455, temp_loss: 0.11060488224029541, time_loss: 0.06608086824417114, mse_loss: 0.1328125
+Epoch: 7401, train loss: 13367.216590881348, temp_loss: 0.1440102607011795, time_loss: 0.08582257479429245, mse_loss: 0.1328125
+Epoch: 7401, train loss: 30652.834335990578, temp_loss: 0.13557635247707367, time_loss: 0.21791614592075348, mse_loss: 0.30434782608695654
+TRAIN: temp_loss: 0.15320232510566711, time_loss: 0.16058284044265747, temp_acc: 0.953125, time_acc: 0.9453125
+TEST : temp_loss: 0.26801860332489014, time_loss: 0.5703821182250977, temp_acc: 0.896, time_acc: 0.816
+Epoch: 7501, train loss: 66.79595184326172, temp_loss: 0.12474271655082703, time_loss: 0.0666712149977684, mse_loss: 0.0
+Epoch: 7501, train loss: 15748.886070251465, temp_loss: 0.1575411856174469, time_loss: 0.12372852861881256, mse_loss: 0.15625
+Epoch: 7501, train loss: 20377.509651184082, temp_loss: 0.14847753942012787, time_loss: 0.06486117839813232, mse_loss: 0.203125
+Epoch: 7501, train loss: 16632.472315249233, temp_loss: 0.1165715903043747, time_loss: 0.11061661690473557, mse_loss: 0.16521739130434782
+TRAIN: temp_loss: 0.0991077646613121, time_loss: 0.06728389859199524, temp_acc: 0.9765625, time_acc: 0.984375
+TEST : temp_loss: 0.26579391956329346, time_loss: 0.5791696310043335, temp_acc: 0.904, time_acc: 0.816
+Epoch: 7601, train loss: 26660.144081115723, temp_loss: 0.17631319165229797, time_loss: 0.09746776521205902, mse_loss: 0.265625
+Epoch: 7601, train loss: 13395.954055786133, temp_loss: 0.14213530719280243, time_loss: 0.11456192284822464, mse_loss: 0.1328125
+Epoch: 7601, train loss: 69.1790542602539, temp_loss: 0.14571139216423035, time_loss: 0.06903333961963654, mse_loss: 0.0
+Epoch: 7601, train loss: 7081.649890070376, temp_loss: 0.088003970682621, time_loss: 0.12504014372825623, mse_loss: 0.06956521739130435
+TRAIN: temp_loss: 0.13484838604927063, time_loss: 0.09588246047496796, temp_acc: 0.9609375, time_acc: 0.96875
+TEST : temp_loss: 0.25891268253326416, time_loss: 0.5669689178466797, temp_acc: 0.896, time_acc: 0.816
+Epoch: 7701, train loss: 13367.532508850098, temp_loss: 0.12875407934188843, time_loss: 0.08615375310182571, mse_loss: 0.1328125
+Epoch: 7701, train loss: 26643.41771697998, temp_loss: 0.14175984263420105, time_loss: 0.08077595382928848, mse_loss: 0.265625
+Epoch: 7701, train loss: 3973.4924926757812, temp_loss: 0.10599394142627716, time_loss: 0.0671364963054657, mse_loss: 0.0390625
+Epoch: 7701, train loss: 1812.231570036515, temp_loss: 0.09880122542381287, time_loss: 0.07300233095884323, mse_loss: 0.017391304347826087
+TRAIN: temp_loss: 0.17163340747356415, time_loss: 0.12276890873908997, temp_acc: 0.9375, time_acc: 0.984375
+TEST : temp_loss: 0.2596437931060791, time_loss: 0.5653784871101379, temp_acc: 0.904, time_acc: 0.816
+Epoch: 7801, train loss: 3210.728202819824, temp_loss: 0.15257520973682404, time_loss: 0.085575632750988, mse_loss: 0.03125
+Epoch: 7801, train loss: 13367.712432861328, temp_loss: 0.10234280675649643, time_loss: 0.08636008948087692, mse_loss: 0.1328125
+Epoch: 7801, train loss: 28217.601119995117, temp_loss: 0.1233958750963211, time_loss: 0.0924777239561081, mse_loss: 0.28125
+Epoch: 7801, train loss: 1828.2548168016517, temp_loss: 0.09593037515878677, time_loss: 0.08902844786643982, mse_loss: 0.017391304347826087
+TRAIN: temp_loss: 0.1090581864118576, time_loss: 0.08456532657146454, temp_acc: 0.96875, time_acc: 0.96875
+TEST : temp_loss: 0.2707819938659668, time_loss: 0.5875908732414246, temp_acc: 0.896, time_acc: 0.816
+Epoch: 7901, train loss: 7096.036964416504, temp_loss: 0.1615789830684662, time_loss: 0.06462538987398148, mse_loss: 0.0703125
+Epoch: 7901, train loss: 39234.99705505371, temp_loss: 0.14358817040920258, time_loss: 0.17235347628593445, mse_loss: 0.390625
+Epoch: 7901, train loss: 16485.934036254883, temp_loss: 0.09064596891403198, time_loss: 0.07959339022636414, mse_loss: 0.1640625
+Epoch: 7901, train loss: 32328.512057760487, temp_loss: 0.09164533764123917, time_loss: 0.1545073688030243, mse_loss: 0.3217391304347826
+TRAIN: temp_loss: 0.1699429154396057, time_loss: 0.1314241588115692, temp_acc: 0.9375, time_acc: 0.9375
+TEST : temp_loss: 0.2595445215702057, time_loss: 0.5758423805236816, temp_acc: 0.904, time_acc: 0.832
+Best time accuracy: 0.84
+Temp accuracy with best time accuracy: 0.888
+Epoch: 8001, train loss: 56491.106185913086, temp_loss: 0.2160840928554535, time_loss: 0.24089010059833527, mse_loss: 0.5625
+Epoch: 8001, train loss: 5565.710960388184, temp_loss: 0.09901413321495056, time_loss: 0.09686194360256195, mse_loss: 0.0546875
+Epoch: 8001, train loss: 13351.442138671875, temp_loss: 0.12654541432857513, time_loss: 0.07006558775901794, mse_loss: 0.1328125
+Epoch: 8001, train loss: 9650.31127863345, temp_loss: 0.1319768726825714, time_loss: 0.0849619135260582, mse_loss: 0.09565217391304348
+TRAIN: temp_loss: 0.1119847297668457, time_loss: 0.06206372380256653, temp_acc: 0.953125, time_acc: 0.9921875
+TEST : temp_loss: 0.2632087469100952, time_loss: 0.5686166286468506, temp_acc: 0.896, time_acc: 0.824
+Epoch: 8101, train loss: 61101.40965270996, temp_loss: 0.14937953650951385, time_loss: 0.16376027464866638, mse_loss: 0.609375
+Epoch: 8101, train loss: 34474.2679977417, temp_loss: 0.12683488428592682, time_loss: 0.09914115816354752, mse_loss: 0.34375
+Epoch: 8101, train loss: 51.9685173034668, temp_loss: 0.1531350463628769, time_loss: 0.05181538313627243, mse_loss: 0.0
+Epoch: 8101, train loss: 4431.772475201151, temp_loss: 0.09892156720161438, time_loss: 0.08384746313095093, mse_loss: 0.043478260869565216
+TRAIN: temp_loss: 0.1435692012310028, time_loss: 0.16742053627967834, temp_acc: 0.921875, time_acc: 0.921875
+TEST : temp_loss: 0.2580685019493103, time_loss: 0.5699611306190491, temp_acc: 0.904, time_acc: 0.824
+Epoch: 8201, train loss: 1637.715087890625, temp_loss: 0.1482197493314743, time_loss: 0.07506687194108963, mse_loss: 0.015625
+Epoch: 8201, train loss: 3190.4703216552734, temp_loss: 0.16205725073814392, time_loss: 0.06530826538801193, mse_loss: 0.03125
+Epoch: 8201, train loss: 12559.367973327637, temp_loss: 0.08245860040187836, time_loss: 0.05928551405668259, mse_loss: 0.125
+Epoch: 8201, train loss: 9678.167022041653, temp_loss: 0.08408922702074051, time_loss: 0.11286553740501404, mse_loss: 0.09565217391304348
+TRAIN: temp_loss: 0.13732564449310303, time_loss: 0.14322078227996826, temp_acc: 0.9375, time_acc: 0.9609375
+TEST : temp_loss: 0.26012253761291504, time_loss: 0.5671757459640503, temp_acc: 0.896, time_acc: 0.832
+Best time accuracy: 0.848
+Temp accuracy with best time accuracy: 0.912
+Epoch: 8301, train loss: 55622.1448059082, temp_loss: 0.16938632726669312, time_loss: 0.15322542190551758, mse_loss: 0.5546875
+Epoch: 8301, train loss: 44087.02639770508, temp_loss: 0.16862262785434723, time_loss: 0.33685779571533203, mse_loss: 0.4375
+Epoch: 8301, train loss: 53.42957305908203, temp_loss: 0.10839333385229111, time_loss: 0.05332117900252342, mse_loss: 0.0
+Epoch: 8301, train loss: 22713.779895948326, temp_loss: 0.20333658158779144, time_loss: 0.1048809066414833, mse_loss: 0.22608695652173913
+TRAIN: temp_loss: 0.16589273512363434, time_loss: 0.08659249544143677, temp_acc: 0.9453125, time_acc: 0.9765625
+TEST : temp_loss: 0.25486868619918823, time_loss: 0.5698938369750977, temp_acc: 0.896, time_acc: 0.824
+Epoch: 8401, train loss: 58.857906341552734, temp_loss: 0.1070331484079361, time_loss: 0.05875087529420853, mse_loss: 0.0
+Epoch: 8401, train loss: 16488.51332092285, temp_loss: 0.13505873084068298, time_loss: 0.08212826400995255, mse_loss: 0.1640625
+Epoch: 8401, train loss: 3969.0259704589844, temp_loss: 0.11547663062810898, time_loss: 0.06266049295663834, mse_loss: 0.0390625
+Epoch: 8401, train loss: 1824.2338130785072, temp_loss: 0.11267048865556717, time_loss: 0.08499071002006531, mse_loss: 0.017391304347826087
+TRAIN: temp_loss: 0.13969916105270386, time_loss: 0.24622377753257751, temp_acc: 0.953125, time_acc: 0.8828125
+TEST : temp_loss: 0.2608104646205902, time_loss: 0.5792906880378723, temp_acc: 0.904, time_acc: 0.832
+Epoch: 8501, train loss: 1631.102310180664, temp_loss: 0.11047929525375366, time_loss: 0.06849183142185211, mse_loss: 0.015625
+Epoch: 8501, train loss: 7878.700462341309, temp_loss: 0.16588068008422852, time_loss: 0.06603458523750305, mse_loss: 0.078125
+Epoch: 8501, train loss: 3205.823532104492, temp_loss: 0.08804385364055634, time_loss: 0.08073548972606659, mse_loss: 0.03125
+Epoch: 8501, train loss: 1800.269339354142, temp_loss: 0.11599384248256683, time_loss: 0.061022911220788956, mse_loss: 0.017391304347826087
+TRAIN: temp_loss: 0.11080203950405121, time_loss: 0.06313235312700272, temp_acc: 0.9609375, time_acc: 0.984375
+TEST : temp_loss: 0.2560167908668518, time_loss: 0.5699940919876099, temp_acc: 0.904, time_acc: 0.832
+Epoch: 8601, train loss: 19636.255058288574, temp_loss: 0.16389620304107666, time_loss: 0.10484116524457932, mse_loss: 0.1953125
+Epoch: 8601, train loss: 6352.307952880859, temp_loss: 0.1267990618944168, time_loss: 0.10218115150928497, mse_loss: 0.0625
+Epoch: 8601, train loss: 12541.898906707764, temp_loss: 0.13981379568576813, time_loss: 0.04175909236073494, mse_loss: 0.125
+Epoch: 8601, train loss: 19248.01341877813, temp_loss: 0.12643977999687195, time_loss: 0.11745219677686691, mse_loss: 0.19130434782608696
+TRAIN: temp_loss: 0.20806440711021423, time_loss: 0.19613653421401978, temp_acc: 0.8984375, time_acc: 0.90625
+TEST : temp_loss: 0.25669896602630615, time_loss: 0.5623059272766113, temp_acc: 0.904, time_acc: 0.832
+Epoch: 8701, train loss: 7887.142158508301, temp_loss: 0.12495798617601395, time_loss: 0.07451720535755157, mse_loss: 0.078125
+Epoch: 8701, train loss: 18902.664138793945, temp_loss: 0.14564171433448792, time_loss: 0.15251849591732025, mse_loss: 0.1875
+Epoch: 8701, train loss: 39980.933013916016, temp_loss: 0.1585843712091446, time_loss: 0.1370244324207306, mse_loss: 0.3984375
+Epoch: 8701, train loss: 14848.013328220533, temp_loss: 0.09736008197069168, time_loss: 0.06530727446079254, mse_loss: 0.14782608695652175
+TRAIN: temp_loss: 0.0877944678068161, time_loss: 0.09850497543811798, temp_acc: 0.9765625, time_acc: 0.9609375
+TEST : temp_loss: 0.25002148747444153, time_loss: 0.5650230050086975, temp_acc: 0.904, time_acc: 0.84
+Epoch: 8801, train loss: 3207.2025299072266, temp_loss: 0.13928906619548798, time_loss: 0.08206324279308319, mse_loss: 0.03125
+Epoch: 8801, train loss: 21202.352531433105, temp_loss: 0.10479084402322769, time_loss: 0.1084977388381958, mse_loss: 0.2109375
+Epoch: 8801, train loss: 13350.205024719238, temp_loss: 0.17184604704380035, time_loss: 0.06878317892551422, mse_loss: 0.1328125
+Epoch: 8801, train loss: 6204.229341258174, temp_loss: 0.14520351588726044, time_loss: 0.11712761968374252, mse_loss: 0.06086956521739131
+TRAIN: temp_loss: 0.12371250241994858, time_loss: 0.07192548364400864, temp_acc: 0.96875, time_acc: 0.9765625
+TEST : temp_loss: 0.2517387568950653, time_loss: 0.5677338242530823, temp_acc: 0.904, time_acc: 0.824
+Epoch: 8901, train loss: 4777.416122436523, temp_loss: 0.10230187326669693, time_loss: 0.08981382101774216, mse_loss: 0.046875
+Epoch: 8901, train loss: 4795.235885620117, temp_loss: 0.15244564414024353, time_loss: 0.1075834408402443, mse_loss: 0.046875
+Epoch: 8901, train loss: 19629.110275268555, temp_loss: 0.0900367945432663, time_loss: 0.09777024388313293, mse_loss: 0.1953125
+Epoch: 8901, train loss: 14879.15937009065, temp_loss: 0.19711586833000183, time_loss: 0.09635356068611145, mse_loss: 0.14782608695652175
+TRAIN: temp_loss: 0.14814087748527527, time_loss: 0.08189817517995834, temp_acc: 0.9296875, time_acc: 0.984375
+TEST : temp_loss: 0.24961435794830322, time_loss: 0.5601134896278381, temp_acc: 0.912, time_acc: 0.848
+Epoch: 9001, train loss: 25115.528884887695, temp_loss: 0.13644449412822723, time_loss: 0.11539243906736374, mse_loss: 0.25
+Epoch: 9001, train loss: 14173.842651367188, temp_loss: 0.16889314353466034, time_loss: 0.11117375642061234, mse_loss: 0.140625
+Epoch: 9001, train loss: 4752.483383178711, temp_loss: 0.1014050617814064, time_loss: 0.06488198041915894, mse_loss: 0.046875
+Epoch: 9001, train loss: 17530.822124315346, temp_loss: 0.1661626398563385, time_loss: 0.13935160636901855, mse_loss: 0.17391304347826086
+TRAIN: temp_loss: 0.15517307817935944, time_loss: 0.16982363164424896, temp_acc: 0.9453125, time_acc: 0.9296875
+TEST : temp_loss: 0.2522493004798889, time_loss: 0.5734988451004028, temp_acc: 0.896, time_acc: 0.84
+Best time accuracy: 0.856
+Temp accuracy with best time accuracy: 0.912
+Epoch: 9101, train loss: 3207.7098236083984, temp_loss: 0.127640500664711, time_loss: 0.08258218318223953, mse_loss: 0.03125
+Epoch: 9101, train loss: 1633.6681671142578, temp_loss: 0.14247888326644897, time_loss: 0.07102569192647934, mse_loss: 0.015625
+Epoch: 9101, train loss: 22768.40618133545, temp_loss: 0.09994158893823624, time_loss: 0.11205623298883438, mse_loss: 0.2265625
+Epoch: 9101, train loss: 4441.481459576151, temp_loss: 0.1261935979127884, time_loss: 0.09352917969226837, mse_loss: 0.043478260869565216
+TRAIN: temp_loss: 0.09658435732126236, time_loss: 0.06893905252218246, temp_acc: 0.96875, time_acc: 0.984375
+TEST : temp_loss: 0.24721863865852356, time_loss: 0.5675141215324402, temp_acc: 0.912, time_acc: 0.832
+Epoch: 9201, train loss: 20448.261764526367, temp_loss: 0.19150333106517792, time_loss: 0.13557027280330658, mse_loss: 0.203125
+Epoch: 9201, train loss: 3985.236587524414, temp_loss: 0.11611521989107132, time_loss: 0.07887047529220581, mse_loss: 0.0390625
+Epoch: 9201, train loss: 16501.59046936035, temp_loss: 0.09983555972576141, time_loss: 0.09524063020944595, mse_loss: 0.1640625
+Epoch: 9201, train loss: 42.584232330322266, temp_loss: 0.09688976407051086, time_loss: 0.04248734191060066, mse_loss: 0.0
+TRAIN: temp_loss: 0.159042626619339, time_loss: 0.1037464588880539, temp_acc: 0.9375, time_acc: 0.96875
+TEST : temp_loss: 0.2476312816143036, time_loss: 0.5667940378189087, temp_acc: 0.904, time_acc: 0.84
+Epoch: 9301, train loss: 14125.909732818604, temp_loss: 0.09899944067001343, time_loss: 0.06331073492765427, mse_loss: 0.140625
+Epoch: 9301, train loss: 7889.465270996094, temp_loss: 0.15210890769958496, time_loss: 0.07681316137313843, mse_loss: 0.078125
+Epoch: 9301, train loss: 46.5506706237793, temp_loss: 0.13481444120407104, time_loss: 0.04641585424542427, mse_loss: 0.0
+Epoch: 9301, train loss: 57.825042724609375, temp_loss: 0.09066341072320938, time_loss: 0.057734377682209015, mse_loss: 0.0
+TRAIN: temp_loss: 0.1864616423845291, time_loss: 0.2047450840473175, temp_acc: 0.921875, time_acc: 0.9296875
+TEST : temp_loss: 0.2496657371520996, time_loss: 0.5626922845840454, temp_acc: 0.912, time_acc: 0.84
+Epoch: 9401, train loss: 38.800628662109375, temp_loss: 0.11640304327011108, time_loss: 0.03868422657251358, mse_loss: 0.0
+Epoch: 9401, train loss: 825.5751037597656, temp_loss: 0.09981952607631683, time_loss: 0.04422528296709061, mse_loss: 0.0078125
+Epoch: 9401, train loss: 4774.229736328125, temp_loss: 0.10515271872282028, time_loss: 0.08662457764148712, mse_loss: 0.046875
+Epoch: 9401, train loss: 18331.862332551376, temp_loss: 0.1533634513616562, time_loss: 0.07083939760923386, mse_loss: 0.1826086956521739
+TRAIN: temp_loss: 0.11870638281106949, time_loss: 0.08595848083496094, temp_acc: 0.9453125, time_acc: 0.9609375
+TEST : temp_loss: 0.2458873987197876, time_loss: 0.5704388618469238, temp_acc: 0.904, time_acc: 0.824
+Epoch: 9501, train loss: 25997.718841552734, temp_loss: 0.15990585088729858, time_loss: 0.21630893647670746, mse_loss: 0.2578125
+Epoch: 9501, train loss: 27483.49641418457, temp_loss: 0.14269235730171204, time_loss: 0.13960373401641846, mse_loss: 0.2734375
+Epoch: 9501, train loss: 45640.169982910156, temp_loss: 0.15529602766036987, time_loss: 0.3275146782398224, mse_loss: 0.453125
+Epoch: 9501, train loss: 61.525535583496094, temp_loss: 0.09820645302534103, time_loss: 0.06142732873558998, mse_loss: 0.0
+TRAIN: temp_loss: 0.13429848849773407, time_loss: 0.10759537667036057, temp_acc: 0.9453125, time_acc: 0.96875
+TEST : temp_loss: 0.24252519011497498, time_loss: 0.5658262968063354, temp_acc: 0.912, time_acc: 0.848
+Epoch: 9601, train loss: 10242.208030700684, temp_loss: 0.12388002127408981, time_loss: 0.08583415299654007, mse_loss: 0.1015625
+Epoch: 9601, train loss: 24321.656867980957, temp_loss: 0.1662851721048355, time_loss: 0.1027405858039856, mse_loss: 0.2421875
+Epoch: 9601, train loss: 27485.766799926758, temp_loss: 0.18101276457309723, time_loss: 0.1418357789516449, mse_loss: 0.2734375
+Epoch: 9601, train loss: 27076.66629326862, temp_loss: 0.1328641176223755, time_loss: 0.12001168727874756, mse_loss: 0.26956521739130435
+TRAIN: temp_loss: 0.11343100666999817, time_loss: 0.09479641914367676, temp_acc: 0.953125, time_acc: 0.9921875
+TEST : temp_loss: 0.24232620000839233, time_loss: 0.5716115832328796, temp_acc: 0.904, time_acc: 0.832
+Epoch: 9701, train loss: 25078.295822143555, temp_loss: 0.14787638187408447, time_loss: 0.07814794778823853, mse_loss: 0.25
+Epoch: 9701, train loss: 3177.4985694885254, temp_loss: 0.08725829422473907, time_loss: 0.052411310374736786, mse_loss: 0.03125
+Epoch: 9701, train loss: 21187.863067626953, temp_loss: 0.12163908779621124, time_loss: 0.09399142861366272, mse_loss: 0.2109375
+Epoch: 9701, train loss: 41953.01625326405, temp_loss: 0.1739189326763153, time_loss: 0.2137119024991989, mse_loss: 0.41739130434782606
+TRAIN: temp_loss: 0.12692122161388397, time_loss: 0.04337027668952942, temp_acc: 0.9609375, time_acc: 0.9921875
+TEST : temp_loss: 0.24102547764778137, time_loss: 0.5705652236938477, temp_acc: 0.904, time_acc: 0.832
+Epoch: 9801, train loss: 57.184715270996094, temp_loss: 0.12259887158870697, time_loss: 0.057062115520238876, mse_loss: 0.0
+Epoch: 9801, train loss: 35350.03358459473, temp_loss: 0.20118722319602966, time_loss: 0.19358240067958832, mse_loss: 0.3515625
+Epoch: 9801, train loss: 35337.540283203125, temp_loss: 0.16808974742889404, time_loss: 0.18112219870090485, mse_loss: 0.3515625
+Epoch: 9801, train loss: 14863.680846836256, temp_loss: 0.13533860445022583, time_loss: 0.08093681186437607, mse_loss: 0.14782608695652175
+TRAIN: temp_loss: 0.0808294489979744, time_loss: 0.04226409271359444, temp_acc: 0.984375, time_acc: 1.0
+TEST : temp_loss: 0.2373252809047699, time_loss: 0.558797299861908, temp_acc: 0.904, time_acc: 0.832
+Epoch: 9901, train loss: 55.293212890625, temp_loss: 0.08544547855854034, time_loss: 0.055207766592502594, mse_loss: 0.0
+Epoch: 9901, train loss: 55.8383903503418, temp_loss: 0.12900297343730927, time_loss: 0.055709388107061386, mse_loss: 0.0
+Epoch: 9901, train loss: 26665.830711364746, temp_loss: 0.12834066152572632, time_loss: 0.10320237278938293, mse_loss: 0.265625
+Epoch: 9901, train loss: 3555.428098263948, temp_loss: 0.14725768566131592, time_loss: 0.07701997458934784, mse_loss: 0.034782608695652174
+TRAIN: temp_loss: 0.14061379432678223, time_loss: 0.13980862498283386, temp_acc: 0.953125, time_acc: 0.9375
+TEST : temp_loss: 0.2385755181312561, time_loss: 0.5724180936813354, temp_acc: 0.904, time_acc: 0.84
+Best time accuracy: 0.856
+Temp accuracy with best time accuracy: 0.912

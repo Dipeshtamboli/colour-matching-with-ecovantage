@@ -69,11 +69,45 @@ def train_test_loader(exp_name, batch_size=64):
 
     return train_loader, test_loader, [sc], [temp_classes, time_classes]
 
+def get_ecovantage_final_lab(temp, sc):
+    data_file = f'Data/Yellow_Poplar_0305.xlsx'
+    df_prev = pd.read_excel(data_file, sheet_name="225-10")
+    X = df_prev[df_prev.columns[2:5]]    
+    x_prev = X.values
+    # sample 10 random data points from x_prev
+    # x_prev = x_prev[np.random.choice(x_prev.shape[0], 10, replace=False)]
+
+    data_file = f'Data/{temp}.xlsx'
+    df = pd.read_excel(data_file)
+    # convert df to torch tensor
+    x_after = df[df.columns[1:4]].values
+
+    repeated_rows = []
+    for row in x_prev:
+        row = np.tile(row, [x_after.shape[0], 1])
+        repeated_rows.append(row)
+    
+    x_prev_repeated = np.concatenate(repeated_rows, axis=0)
+
+    x_after_repeated = np.tile(x_after, [x_prev.shape[0], 1])
+    # print(f" x_prev shape: {x_prev.shape}")
+    # print(f" x_after shape: {x_after.shape}")
+    # print(f" x_prev_repeated shape: {x_prev_repeated.shape}")
+    # print(f" x_after_repeated shape: {x_after_repeated.shape}")
+
+    x = np.concatenate((x_prev_repeated, x_after_repeated), axis=1)
+    x = sc.transform(x)
+    x = torch.from_numpy(x)
+
+    return x
+
 if "__main__" == __name__:
     exp_name = "Ash"
     train_loader, test_loader, [sc], [temp_classes, time_classes] = train_test_loader(exp_name, batch_size=2)
-    for x, y in train_loader:
-        print(x)
-        print(y)
-        pdb.set_trace()
-        break
+    # for x, y in train_loader:
+    #     print(x)
+    #     print(y)
+    #     pdb.set_trace()
+    #     break
+    # sc = MinMaxScaler()
+    points = get_ecovantage_final_lab(190,sc)

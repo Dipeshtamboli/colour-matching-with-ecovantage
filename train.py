@@ -2,7 +2,7 @@
 TEMP: {225: 0, 250: 1, 275: 2, 300: 3}  
 TIME: {180: 0, 360: 1, 540: 2, 720: 3, 900: 4}
 '''
-from cmath import exp
+# from cmath import exp
 import torch
 import torch.nn as nn
 import torch.utils.data as data_utils
@@ -19,17 +19,18 @@ from network import ANN_model
 from get_train_test import train_test_loader
 
 torch.use_deterministic_algorithms(True)
-seed_val = 745
-# seed_val = np.random.randint(0, 1000)
+seed_val = np.random.randint(0, 1000)
+# seed_val = 745
 torch.manual_seed(seed_val)
 np.random.seed(seed_val)
 random.seed(seed_val)
 
-learning_rate = 5e-3
+learning_rate = 1e-4
 time_wt = 1000 
 mse_wt = 100000
-num_epochs = 5000
-print = super_print(f'logs/{seed_val}_w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
+# num_epochs = 1000
+num_epochs = 10000
+print = super_print(f'logs/final_{seed_val}_w_{time_wt}-{mse_wt}_r_{learning_rate}_e_{num_epochs}.txt')(print)
 exp_name = "YellowPoplar"
 train_loader, test_loader, [sc], [temp_classes, time_classes] = train_test_loader(exp_name, batch_size=128)
 model = ANN_model()
@@ -95,9 +96,9 @@ for epoch in range(num_epochs):
         print(f"Best time accuracy: {best_time_acc}")
         print(f"Temp accuracy with best time accuracy: {temp_acc_best}")
         best_model_dict = model.state_dict()
-        # torch.save(model.state_dict(), f"models/best_{exp_name}_model_{best_time_acc}_{temp_acc_best}.pt")
+        torch.save(model.state_dict(), f"models/best_{exp_name}_model_{best_time_acc}_{temp_acc_best}.pt")
     
-torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
+# torch.save(model.state_dict(), f"models/{exp_name}_model.pt")
 torch.save(best_model_dict, f"models/best_{exp_name}_model_{best_time_acc}_{temp_acc_best}.pt")
 
 fig, ax = plt.subplots(2, 2, figsize=(10, 10), constrained_layout=True)
